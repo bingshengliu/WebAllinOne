@@ -1,0 +1,6251 @@
+{
+    "bodePlot": [
+        {
+            "phase": -82.97989209944167,
+            "frequency": 10002.226,
+            "amplitude": 0.00962123733184454
+        },
+        {
+            "phase": -82.44581604269911,
+            "frequency": 8914.933,
+            "amplitude": 0.008626344205769786
+        },
+        {
+            "phase": -81.84120953580383,
+            "frequency": 7943.995,
+            "amplitude": 0.007730834480278497
+        },
+        {
+            "phase": -81.19859885887844,
+            "frequency": 7081.583,
+            "amplitude": 0.006932487941519202
+        },
+        {
+            "phase": -80.45523794790026,
+            "frequency": 6307.736,
+            "amplitude": 0.0062156542933579735
+        },
+        {
+            "phase": -79.69318187176857,
+            "frequency": 5622.588,
+            "amplitude": 0.005578871748494218
+        },
+        {
+            "phase": -78.84226943121726,
+            "frequency": 5011.603,
+            "amplitude": 0.005008695444787843
+        },
+        {
+            "phase": -77.86443080700685,
+            "frequency": 4466.429,
+            "amplitude": 0.004499274663229036
+        },
+        {
+            "phase": -76.82474144564661,
+            "frequency": 3981.2773,
+            "amplitude": 0.004045289461538959
+        },
+        {
+            "phase": -75.70453052778028,
+            "frequency": 3548.868,
+            "amplitude": 0.0036386456182946197
+        },
+        {
+            "phase": -74.40362545069583,
+            "frequency": 3163.0398,
+            "amplitude": 0.0032796711663505202
+        },
+        {
+            "phase": -73.06742393227861,
+            "frequency": 2819.0986,
+            "amplitude": 0.0029585429149315947
+        },
+        {
+            "phase": -71.4995777754483,
+            "frequency": 2512.4104,
+            "amplitude": 0.0026716441514698114
+        },
+        {
+            "phase": -69.84726060819058,
+            "frequency": 2239.2869,
+            "amplitude": 0.0024196723317647805
+        },
+        {
+            "phase": -68.06774054394683,
+            "frequency": 1995.6381,
+            "amplitude": 0.0021925159234926
+        },
+        {
+            "phase": -66.0345684478682,
+            "frequency": 1778.2897,
+            "amplitude": 0.001992964386419153
+        },
+        {
+            "phase": -64.10158246301592,
+            "frequency": 1584.4927,
+            "amplitude": 0.0018160585453306562
+        },
+        {
+            "phase": -61.8525936801932,
+            "frequency": 1412.7418,
+            "amplitude": 0.0016585569708342037
+        },
+        {
+            "phase": -59.464840897029795,
+            "frequency": 1258.7905,
+            "amplitude": 0.0015247746873168935
+        },
+        {
+            "phase": -57.103182262648005,
+            "frequency": 1121.7966,
+            "amplitude": 0.0014040130477396184
+        },
+        {
+            "phase": -54.39185029571399,
+            "frequency": 999.68164,
+            "amplitude": 0.0012982463637264882
+        },
+        {
+            "phase": -51.81375525487862,
+            "frequency": 891.42474,
+            "amplitude": 0.0012070456245390437
+        },
+        {
+            "phase": -48.9889396267278,
+            "frequency": 794.2393,
+            "amplitude": 0.0011271232184193343
+        },
+        {
+            "phase": -46.109769490084936,
+            "frequency": 707.9616,
+            "amplitude": 0.001058159998061529
+        },
+        {
+            "phase": -43.310640637349955,
+            "frequency": 631.00977,
+            "amplitude": 0.0009955295820945
+        },
+        {
+            "phase": -40.39104647196077,
+            "frequency": 562.3393,
+            "amplitude": 0.0009441305570705746
+        },
+        {
+            "phase": -37.48389378993363,
+            "frequency": 501.1223,
+            "amplitude": 0.000901126881357187
+        },
+        {
+            "phase": -34.675536418954024,
+            "frequency": 446.57214,
+            "amplitude": 0.0008615856317786686
+        },
+        {
+            "phase": -31.998920693406358,
+            "frequency": 398.089,
+            "amplitude": 0.0008269685979248454
+        },
+        {
+            "phase": -29.277409535477144,
+            "frequency": 354.8868,
+            "amplitude": 0.0008018428795632283
+        },
+        {
+            "phase": -26.522497694284645,
+            "frequency": 316.3159,
+            "amplitude": 0.0007792987056451461
+        },
+        {
+            "phase": -24.319972881216422,
+            "frequency": 281.8942,
+            "amplitude": 0.000759661265058108
+        },
+        {
+            "phase": -21.627911458805887,
+            "frequency": 251.20601,
+            "amplitude": 0.0007422246056178699
+        },
+        {
+            "phase": -19.430396163689878,
+            "frequency": 223.92496,
+            "amplitude": 0.0007309219633692807
+        },
+        {
+            "phase": -17.33687618650689,
+            "frequency": 199.55338,
+            "amplitude": 0.0007192657422822214
+        },
+        {
+            "phase": -15.456440984205601,
+            "frequency": 177.78128,
+            "amplitude": 0.0007088904274968936
+        },
+        {
+            "phase": -13.451928910218454,
+            "frequency": 158.52898,
+            "amplitude": 0.0007056063610954896
+        },
+        {
+            "phase": -11.746904224662986,
+            "frequency": 141.21979,
+            "amplitude": 0.0007026062522275759
+        },
+        {
+            "phase": -10.241803376210056,
+            "frequency": 125.92673,
+            "amplitude": 0.0006966750906870967
+        },
+        {
+            "phase": -8.83121052344035,
+            "frequency": 112.19009,
+            "amplitude": 0.0006972514460287752
+        },
+        {
+            "phase": -7.368640011415334,
+            "frequency": 99.96816,
+            "amplitude": 0.000694494618119906
+        },
+        {
+            "phase": -6.283865676645894,
+            "frequency": 89.11565,
+            "amplitude": 0.0006965573138774481
+        },
+        {
+            "phase": -5.356530245648824,
+            "frequency": 79.41574,
+            "amplitude": 0.0006964846949386814
+        },
+        {
+            "phase": -4.222000000905018,
+            "frequency": 70.79318,
+            "amplitude": 0.0006980707971089459
+        },
+        {
+            "phase": -3.3623829587793836,
+            "frequency": 63.08228,
+            "amplitude": 0.0006985515216173034
+        },
+        {
+            "phase": -2.5587415322640745,
+            "frequency": 56.241825,
+            "amplitude": 0.0007053825129442052
+        },
+        {
+            "phase": -1.898965868584271,
+            "frequency": 50.112232,
+            "amplitude": 0.0007051634657643928
+        },
+        {
+            "phase": -1.3248363384385362,
+            "frequency": 44.671223,
+            "amplitude": 0.0007080907161130185
+        },
+        {
+            "phase": -0.9280388086096509,
+            "frequency": 39.8089,
+            "amplitude": 0.000711843875356537
+        },
+        {
+            "phase": -0.5368568370928338,
+            "frequency": 35.488308,
+            "amplitude": 0.0007135963650063723
+        },
+        {
+            "phase": -0.2209726288198252,
+            "frequency": 31.629578,
+            "amplitude": 0.0007196411520129547
+        },
+        {
+            "phase": -0.033109199603321676,
+            "frequency": 28.187037,
+            "amplitude": 0.0007193840601110331
+        },
+        {
+            "phase": 0.49686905096421285,
+            "frequency": 25.120602,
+            "amplitude": 0.0007217133075491772
+        },
+        {
+            "phase": 0.6965625488533425,
+            "frequency": 22.385418,
+            "amplitude": 0.0007251521281491606
+        },
+        {
+            "phase": 0.6487833077058461,
+            "frequency": 19.955338,
+            "amplitude": 0.0007301305379851747
+        },
+        {
+            "phase": 0.8393797627279661,
+            "frequency": 17.775894,
+            "amplitude": 0.000732658020403575
+        },
+        {
+            "phase": 0.8875760694010597,
+            "frequency": 15.846864,
+            "amplitude": 0.0007347579599881175
+        },
+        {
+            "phase": 0.9167311969629574,
+            "frequency": 14.127493,
+            "amplitude": 0.0007375068986065266
+        },
+        {
+            "phase": 1.059532055729132,
+            "frequency": 12.587309,
+            "amplitude": 0.0007386940305244959
+        },
+        {
+            "phase": 1.0564129447032244,
+            "frequency": 11.216775,
+            "amplitude": 0.0007399716751837412
+        },
+        {
+            "phase": 1.0159006460399078,
+            "frequency": 9.996817,
+            "amplitude": 0.0007428859317983778
+        },
+        {
+            "phase": 1.0649257146572833,
+            "frequency": 8.908213,
+            "amplitude": 0.0007450279536684219
+        },
+        {
+            "phase": 1.2895763362843466,
+            "frequency": 7.9395623,
+            "amplitude": 0.0007438416000350088
+        },
+        {
+            "phase": 1.3844212879431796,
+            "frequency": 7.0765615,
+            "amplitude": 0.000747707858965567
+        },
+        {
+            "phase": 1.3489638876936716,
+            "frequency": 6.310582,
+            "amplitude": 0.0007484751853324984
+        },
+        {
+            "phase": 1.3006347870046688,
+            "frequency": 5.6245475,
+            "amplitude": 0.0007506483986255987
+        },
+        {
+            "phase": 1.3956565201051407,
+            "frequency": 5.0112233,
+            "amplitude": 0.0007524786710270273
+        },
+        {
+            "phase": 1.163851122981892,
+            "frequency": 4.4642835,
+            "amplitude": 0.0007546824929478705
+        },
+        {
+            "phase": 1.3636495699316344,
+            "frequency": 3.9819033,
+            "amplitude": 0.0007550010244381735
+        },
+        {
+            "phase": 1.198957192937879,
+            "frequency": 3.5479143,
+            "amplitude": 0.0007573986214685953
+        },
+        {
+            "phase": 1.3671838417270634,
+            "frequency": 3.1629577,
+            "amplitude": 0.0007579058611420016
+        },
+        {
+            "phase": 1.294206198472767,
+            "frequency": 2.818361,
+            "amplitude": 0.0007581566069823153
+        },
+        {
+            "phase": 1.2494005084968696,
+            "frequency": 2.511248,
+            "amplitude": 0.000758905425760595
+        },
+        {
+            "phase": 1.312797241371782,
+            "frequency": 2.2398233,
+            "amplitude": 0.0007603349349346451
+        },
+        {
+            "phase": 1.2705263782044123,
+            "frequency": 1.9950197,
+            "amplitude": 0.0007621332222228717
+        },
+        {
+            "phase": 1.2812635761410076,
+            "frequency": 1.7775893,
+            "amplitude": 0.000759043880018488
+        },
+        {
+            "phase": 1.3339277386784472,
+            "frequency": 1.5846864,
+            "amplitude": 0.0007643469382298272
+        },
+        {
+            "phase": 1.3337122416936387,
+            "frequency": 1.4122353,
+            "amplitude": 0.0007653138332557612
+        },
+        {
+            "phase": 1.5077296689553428,
+            "frequency": 1.258254,
+            "amplitude": 0.0007656050644211067
+        },
+        {
+            "phase": 1.4827556106782651,
+            "frequency": 1.1224822,
+            "amplitude": 0.0007711290062159134
+        },
+        {
+            "phase": 1.4415102839921665,
+            "frequency": 1.0000616,
+            "amplitude": 0.000768841257867637
+        },
+        {
+            "phase": 1.4673836987302813,
+            "frequency": 0.8908212,
+            "amplitude": 0.0007713435108900668
+        },
+        {
+            "phase": 1.548815099194781,
+            "frequency": 0.7944405,
+            "amplitude": 0.0007706972666799887
+        },
+        {
+            "phase": 1.631993193798007,
+            "frequency": 0.70784986,
+            "amplitude": 0.0007747542650165876
+        },
+        {
+            "phase": 1.649571464286246,
+            "frequency": 0.63126236,
+            "amplitude": 0.0007728853964407275
+        },
+        {
+            "phase": 1.6830076280949078,
+            "frequency": 0.562536,
+            "amplitude": 0.0007753079567167228
+        },
+        {
+            "phase": 1.77742161943188,
+            "frequency": 0.50118715,
+            "amplitude": 0.0007762017611678162
+        },
+        {
+            "phase": 1.799993734842994,
+            "frequency": 0.44642836,
+            "amplitude": 0.0007794954312631946
+        },
+        {
+            "phase": 2.0464459952985714,
+            "frequency": 0.39821118,
+            "amplitude": 0.0007805859215458907
+        },
+        {
+            "phase": 1.824699992695097,
+            "frequency": 0.35475865,
+            "amplitude": 0.000781992927944725
+        },
+        {
+            "phase": 1.965920049435418,
+            "frequency": 0.31619295,
+            "amplitude": 0.0007820397718022075
+        },
+        {
+            "phase": 2.0539089781570388,
+            "frequency": 0.2819173,
+            "amplitude": 0.0007845464333474598
+        },
+        {
+            "phase": 2.0863035356186614,
+            "frequency": 0.25117323,
+            "amplitude": 0.0007878017842293532
+        },
+        {
+            "phase": 2.229132752950616,
+            "frequency": 0.22391155,
+            "amplitude": 0.0007885182366038125
+        },
+        {
+            "phase": 2.3701898421912753,
+            "frequency": 0.19957349,
+            "amplitude": 0.0007899086209174949
+        },
+        {
+            "phase": 2.4025990717701293,
+            "frequency": 0.17779917,
+            "amplitude": 0.0007916089500815572
+        },
+        {
+            "phase": 2.538254589401126,
+            "frequency": 0.15846863,
+            "amplitude": 0.0007938627781316383
+        },
+        {
+            "phase": 2.7260376429701845,
+            "frequency": 0.14123619,
+            "amplitude": 0.0007965453989389682
+        },
+        {
+            "phase": 2.751118118998218,
+            "frequency": 0.12590662,
+            "amplitude": 0.0007981142665912616
+        },
+        {
+            "phase": 2.904858091415337,
+            "frequency": 0.1122199,
+            "amplitude": 0.0008015956392270178
+        },
+        {
+            "phase": 2.9967871469595897,
+            "frequency": 0.10002181,
+            "amplitude": 0.0008032032061542615
+        }
+    ],
+    "drtPlot": [
+        {
+            "freqFine": 316227.7660168379,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 311216.37374269794,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 306284.399075815,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 301430.5834525005,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 296653.6882540475,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 291952.49449065,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 287325.8024903389,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 282772.43159284315,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 278291.21984830307,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 273881.02372076083,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 269540.7177963446,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 265269.19449608255,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 261065.36379326435,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 256928.15293528594,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 252856.50616989596,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 248849.38447578647,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 244905.76529745015,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 241024.6422842395,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 237205.02503356364,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 233445.93883815,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 229746.42443731596,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 226105.53777217996,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 222522.3497447517,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 218995.94598084263,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 215525.42659672903,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 212109.90596951733,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 208748.51251114614,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 205440.38844597194,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 202184.6895918756,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 198980.58514484175,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 195827.25746695016,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 192723.90187772663,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 189669.72644880263,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 186663.95180182502,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 183705.81090957238,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 180794.54890022107,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 177929.42286471324,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 175109.70166717953,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 172334.665758362,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 169603.60699199812,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 166915.8284441121,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 164270.6442351705,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 161667.37935505778,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 159105.36949082196,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 156583.96085715364,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 154102.51002954986,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 151660.38378012163,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 149256.95891600536,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 146891.6221203317,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 144563.7697957179,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 142272.8079102384,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 140018.15184583823,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 137799.2262491459,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 135615.4648846531,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 133466.31049021997,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 131351.21463487015,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 129269.63757884072,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 127221.04813584732,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 125204.92353753475,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 123220.74930007425,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 121268.01909287501,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 119346.23460937732,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 117454.90543989102,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 115593.5489464515,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 113761.69013965747,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 111958.86155746195,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 110184.6031458818,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 108438.46214159991,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 106719.99295642691,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 105028.75706359356,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 103364.32288584652,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 101726.2656853151,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 100114.16745512566,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 98527.61681273248,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 96966.20889493905,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 95429.54525458411,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 93917.23375886284,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 92428.88848926149,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 90964.12964307664,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 89522.58343649536,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 88103.88200921203,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 86707.66333055496,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 85333.57110710251,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 83981.25469176237,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 82650.36899429162,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 81340.57439323574,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 80051.53664926146,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 78782.92681986469,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 77534.42117542932,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 76305.70111661631,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 75096.45309306266,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 73906.36852336724,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 72735.14371634625,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 71582.47979353565,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 70448.08261292244,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 69331.66269388353,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 68232.93514331509,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 67151.61958293214,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 66087.44007772076,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 65040.12506552305,
+            "gammaRidgeFine": 0.0
+        },
+        {
+            "freqFine": 64009.40728773908,
+            "gammaRidgeFine": 3.4584595e-316
+        },
+        {
+            "freqFine": 62995.0237211266,
+            "gammaRidgeFine": 7.9507425125186e-311
+        },
+        {
+            "freqFine": 61996.71551068137,
+            "gammaRidgeFine": 1.653027519681844e-305
+        },
+        {
+            "freqFine": 61014.22790358193,
+            "gammaRidgeFine": 3.088796474040841e-300
+        },
+        {
+            "freqFine": 60047.31018417981,
+            "gammaRidgeFine": 5.187227887723468e-295
+        },
+        {
+            "freqFine": 59095.71561002131,
+            "gammaRidgeFine": 7.829214456443296e-290
+        },
+        {
+            "freqFine": 58159.201348882496,
+            "gammaRidgeFine": 1.0620326703666904e-284
+        },
+        {
+            "freqFine": 57237.52841680207,
+            "gammaRidgeFine": 1.2947752534539821e-279
+        },
+        {
+            "freqFine": 56330.46161709683,
+            "gammaRidgeFine": 1.418690726670608e-274
+        },
+        {
+            "freqFine": 55437.76948034237,
+            "gammaRidgeFine": 1.3970691276160237e-269
+        },
+        {
+            "freqFine": 54559.224205306185,
+            "gammaRidgeFine": 1.2364737123716232e-264
+        },
+        {
+            "freqFine": 53694.601600816146,
+            "gammaRidgeFine": 9.835324779153912e-260
+        },
+        {
+            "freqFine": 52843.68102855032,
+            "gammaRidgeFine": 7.031198353438161e-255
+        },
+        {
+            "freqFine": 52006.2453467339,
+            "gammaRidgeFine": 4.517590068823057e-250
+        },
+        {
+            "freqFine": 51182.08085472729,
+            "gammaRidgeFine": 2.608681848714745e-245
+        },
+        {
+            "freqFine": 50370.9772384935,
+            "gammaRidgeFine": 1.3538552669318575e-240
+        },
+        {
+            "freqFine": 49572.72751692911,
+            "gammaRidgeFine": 6.314808537325782e-236
+        },
+        {
+            "freqFine": 48787.12798904581,
+            "gammaRidgeFine": 2.6471890770872805e-231
+        },
+        {
+            "freqFine": 48013.97818198945,
+            "gammaRidgeFine": 9.973476368770087e-227
+        },
+        {
+            "freqFine": 47253.080799881835,
+            "gammaRidgeFine": 3.3771083136131675e-222
+        },
+        {
+            "freqFine": 46504.241673474346,
+            "gammaRidgeFine": 1.0277328610182915e-217
+        },
+        {
+            "freqFine": 45767.26971059876,
+            "gammaRidgeFine": 2.810944832135038e-213
+        },
+        {
+            "freqFine": 45041.976847403464,
+            "gammaRidgeFine": 6.909732386303942e-209
+        },
+        {
+            "freqFine": 44328.17800036277,
+            "gammaRidgeFine": 1.526535677576169e-204
+        },
+        {
+            "freqFine": 43625.69101904598,
+            "gammaRidgeFine": 3.031024985950799e-200
+        },
+        {
+            "freqFine": 42934.336639635716,
+            "gammaRidgeFine": 5.408899350380136e-196
+        },
+        {
+            "freqFine": 42253.93843918241,
+            "gammaRidgeFine": 8.67491263829334e-192
+        },
+        {
+            "freqFine": 41584.32279058427,
+            "gammaRidgeFine": 1.2504264330591604e-187
+        },
+        {
+            "freqFine": 40925.31881827975,
+            "gammaRidgeFine": 1.61989926279124e-183
+        },
+        {
+            "freqFine": 40276.75835464316,
+            "gammaRidgeFine": 1.8860564881603867e-179
+        },
+        {
+            "freqFine": 39638.47589707075,
+            "gammaRidgeFine": 1.9735957903300997e-175
+        },
+        {
+            "freqFine": 39010.30856574693,
+            "gammaRidgeFine": 1.856087946796255e-171
+        },
+        {
+            "freqFine": 38392.09606208021,
+            "gammaRidgeFine": 1.5688293910395069e-167
+        },
+        {
+            "freqFine": 37783.68062779698,
+            "gammaRidgeFine": 1.1917624829135192e-163
+        },
+        {
+            "freqFine": 37184.90700468435,
+            "gammaRidgeFine": 8.13655432233261e-160
+        },
+        {
+            "freqFine": 36595.6223949705,
+            "gammaRidgeFine": 4.992616102486948e-156
+        },
+        {
+            "freqFine": 36015.676422333374,
+            "gammaRidgeFine": 2.7532943531612626e-152
+        },
+        {
+            "freqFine": 35444.921093526485,
+            "gammaRidgeFine": 1.364626941253165e-148
+        },
+        {
+            "freqFine": 34883.21076061365,
+            "gammaRidgeFine": 6.0787189512690885e-145
+        },
+        {
+            "freqFine": 34330.40208380179,
+            "gammaRidgeFine": 2.4335877668416884e-141
+        },
+        {
+            "freqFine": 33786.3539948628,
+            "gammaRidgeFine": 8.756262830929581e-138
+        },
+        {
+            "freqFine": 33250.92766113536,
+            "gammaRidgeFine": 2.8315705747336683e-134
+        },
+        {
+            "freqFine": 32723.986450096574,
+            "gammaRidgeFine": 8.22948803626442e-131
+        },
+        {
+            "freqFine": 32205.39589449576,
+            "gammaRidgeFine": 2.1495872228141646e-127
+        },
+        {
+            "freqFine": 31695.023658040398,
+            "gammaRidgeFine": 5.04631262264363e-124
+        },
+        {
+            "freqFine": 31192.7395016259,
+            "gammaRidgeFine": 1.0647068737227394e-120
+        },
+        {
+            "freqFine": 30698.415250100858,
+            "gammaRidgeFine": 2.0189371059841613e-117
+        },
+        {
+            "freqFine": 30211.924759558333,
+            "gammaRidgeFine": 3.440743897103659e-114
+        },
+        {
+            "freqFine": 29733.14388514616,
+            "gammaRidgeFine": 5.270098502264875e-111
+        },
+        {
+            "freqFine": 29261.950449387008,
+            "gammaRidgeFine": 7.254741512395522e-108
+        },
+        {
+            "freqFine": 28798.22421100054,
+            "gammaRidgeFine": 8.975568787926141e-105
+        },
+        {
+            "freqFine": 28341.84683421992,
+            "gammaRidgeFine": 9.980190759052365e-102
+        },
+        {
+            "freqFine": 27892.70185859401,
+            "gammaRidgeFine": 9.973613428350625e-99
+        },
+        {
+            "freqFine": 27450.674669268683,
+            "gammaRidgeFine": 8.957834742282388e-96
+        },
+        {
+            "freqFine": 27015.652467738855,
+            "gammaRidgeFine": 7.230867228737569e-93
+        },
+        {
+            "freqFine": 26587.524243063966,
+            "gammaRidgeFine": 5.245834130446599e-90
+        },
+        {
+            "freqFine": 26166.180743539935,
+            "gammaRidgeFine": 3.4203893671383015e-87
+        },
+        {
+            "freqFine": 25751.514448819486,
+            "gammaRidgeFine": 2.0043491078596348e-84
+        },
+        {
+            "freqFine": 25343.41954247484,
+            "gammaRidgeFine": 1.0556209790039451e-81
+        },
+        {
+            "freqFine": 24941.791884994927,
+            "gammaRidgeFine": 4.996656382790483e-79
+        },
+        {
+            "freqFine": 24546.528987210575,
+            "gammaRidgeFine": 2.1256305443093635e-76
+        },
+        {
+            "freqFine": 24157.529984141027,
+            "gammaRidgeFine": 8.127049518537219e-74
+        },
+        {
+            "freqFine": 23774.695609254464,
+            "gammaRidgeFine": 2.792639367622755e-71
+        },
+        {
+            "freqFine": 23397.92816913689,
+            "gammaRidgeFine": 8.624494152438601e-69
+        },
+        {
+            "freqFine": 23027.13151856245,
+            "gammaRidgeFine": 2.393807560500206e-66
+        },
+        {
+            "freqFine": 22662.21103595815,
+            "gammaRidgeFine": 5.9714756080112296e-64
+        },
+        {
+            "freqFine": 22303.07359925854,
+            "gammaRidgeFine": 1.3387852445683318e-61
+        },
+        {
+            "freqFine": 21949.627562141897,
+            "gammaRidgeFine": 2.697596551269934e-59
+        },
+        {
+            "freqFine": 21601.782730643685,
+            "gammaRidgeFine": 4.885172508584954e-57
+        },
+        {
+            "freqFine": 21259.450340140585,
+            "gammaRidgeFine": 7.950961257023546e-55
+        },
+        {
+            "freqFine": 20922.543032698864,
+            "gammaRidgeFine": 1.1630441366817385e-52
+        },
+        {
+            "freqFine": 20590.974834782155,
+            "gammaRidgeFine": 1.5290073787801049e-50
+        },
+        {
+            "freqFine": 20264.66113531231,
+            "gammaRidgeFine": 1.8065907923835677e-48
+        },
+        {
+            "freqFine": 19943.518664077907,
+            "gammaRidgeFine": 1.9184338542545934e-46
+        },
+        {
+            "freqFine": 19627.465470485142,
+            "gammaRidgeFine": 1.8309255836781272e-44
+        },
+        {
+            "freqFine": 19316.42090264507,
+            "gammaRidgeFine": 1.570476284890161e-42
+        },
+        {
+            "freqFine": 19010.30558679264,
+            "gammaRidgeFine": 1.2106786904828822e-40
+        },
+        {
+            "freqFine": 18709.041407031713,
+            "gammaRidgeFine": 8.388093061672034e-39
+        },
+        {
+            "freqFine": 18412.551485401036,
+            "gammaRidgeFine": 5.2231729683321695e-37
+        },
+        {
+            "freqFine": 18120.76016225634,
+            "gammaRidgeFine": 2.9230914456301e-35
+        },
+        {
+            "freqFine": 17833.59297696294,
+            "gammaRidgeFine": 1.4702365737613915e-33
+        },
+        {
+            "freqFine": 17550.976648894673,
+            "gammaRidgeFine": 6.646130557093633e-32
+        },
+        {
+            "freqFine": 17272.839058733793,
+            "gammaRidgeFine": 2.700146578822338e-30
+        },
+        {
+            "freqFine": 16999.109230067184,
+            "gammaRidgeFine": 9.859221851030854e-29
+        },
+        {
+            "freqFine": 16729.71731127443,
+            "gammaRidgeFine": 3.235450529288549e-27
+        },
+        {
+            "freqFine": 16464.594557702556,
+            "gammaRidgeFine": 9.542533965951652e-26
+        },
+        {
+            "freqFine": 16203.673314123569,
+            "gammaRidgeFine": 2.529469757298345e-24
+        },
+        {
+            "freqFine": 15946.886997469883,
+            "gammaRidgeFine": 6.02604116694025e-23
+        },
+        {
+            "freqFine": 15694.170079843303,
+            "gammaRidgeFine": 1.2902430348857874e-21
+        },
+        {
+            "freqFine": 15445.458071793451,
+            "gammaRidgeFine": 2.4828345402021186e-20
+        },
+        {
+            "freqFine": 15200.687505860864,
+            "gammaRidgeFine": 4.29398833009445e-19
+        },
+        {
+            "freqFine": 14959.795920381202,
+            "gammaRidgeFine": 6.674377511443291e-18
+        },
+        {
+            "freqFine": 14722.721843545969,
+            "gammaRidgeFine": 9.323897722303204e-17
+        },
+        {
+            "freqFine": 14489.404777715832,
+            "gammaRidgeFine": 1.1706338036824817e-15
+        },
+        {
+            "freqFine": 14259.785183982667,
+            "gammaRidgeFine": 1.320934998664779e-14
+        },
+        {
+            "freqFine": 14033.804466975984,
+            "gammaRidgeFine": 1.3396108616844365e-13
+        },
+        {
+            "freqFine": 13811.4049599104,
+            "gammaRidgeFine": 1.2209916690237152e-12
+        },
+        {
+            "freqFine": 13592.529909869954,
+            "gammaRidgeFine": 1.0001924462123432e-11
+        },
+        {
+            "freqFine": 13377.123463325595,
+            "gammaRidgeFine": 7.363618366881668e-11
+        },
+        {
+            "freqFine": 13165.130651882348,
+            "gammaRidgeFine": 4.87232011550146e-10
+        },
+        {
+            "freqFine": 12956.497378252056,
+            "gammaRidgeFine": 2.8974584136951045e-09
+        },
+        {
+            "freqFine": 12751.170402448675,
+            "gammaRidgeFine": 1.5485866048167016e-08
+        },
+        {
+            "freqFine": 12549.097328202362,
+            "gammaRidgeFine": 7.43859216585424e-08
+        },
+        {
+            "freqFine": 12350.226589588463,
+            "gammaRidgeFine": 3.2113165700379105e-07
+        },
+        {
+            "freqFine": 12154.507437869044,
+            "gammaRidgeFine": 1.2459854075896456e-06
+        },
+        {
+            "freqFine": 11961.88992854233,
+            "gammaRidgeFine": 4.344912097281031e-06
+        },
+        {
+            "freqFine": 11772.324908597731,
+            "gammaRidgeFine": 1.3617231767331564e-05
+        },
+        {
+            "freqFine": 11585.76400397283,
+            "gammaRidgeFine": 3.835658190579633e-05
+        },
+        {
+            "freqFine": 11402.159607208925,
+            "gammaRidgeFine": 9.710500644808522e-05
+        },
+        {
+            "freqFine": 11221.464865302436,
+            "gammaRidgeFine": 0.0002209581383409806
+        },
+        {
+            "freqFine": 11043.63366774872,
+            "gammaRidgeFine": 0.0004519387291058767
+        },
+        {
+            "freqFine": 10868.620634775365,
+            "gammaRidgeFine": 0.0008310453236499512
+        },
+        {
+            "freqFine": 10696.381105762053,
+            "gammaRidgeFine": 0.001374376438710893
+        },
+        {
+            "freqFine": 10526.871127843735,
+            "gammaRidgeFine": 0.002045817201366193
+        },
+        {
+            "freqFine": 10360.047444694625,
+            "gammaRidgeFine": 0.0027456433321270844
+        },
+        {
+            "freqFine": 10195.867485489835,
+            "gammaRidgeFine": 0.00333422127042822
+        },
+        {
+            "freqFine": 10034.28935404193,
+            "gammaRidgeFine": 0.003690937765934509
+        },
+        {
+            "freqFine": 9875.271818109764,
+            "gammaRidgeFine": 0.0037793457025438884
+        },
+        {
+            "freqFine": 9718.774298876513,
+            "gammaRidgeFine": 0.0036743182905027323
+        },
+        {
+            "freqFine": 9564.756860594682,
+            "gammaRidgeFine": 0.0035246989724011285
+        },
+        {
+            "freqFine": 9413.180200395074,
+            "gammaRidgeFine": 0.0034680871251889234
+        },
+        {
+            "freqFine": 9264.005638257366,
+            "gammaRidgeFine": 0.0035511969481757037
+        },
+        {
+            "freqFine": 9117.195107139476,
+            "gammaRidgeFine": 0.0037094898756109933
+        },
+        {
+            "freqFine": 8972.711143263537,
+            "gammaRidgeFine": 0.0038206360225302083
+        },
+        {
+            "freqFine": 8830.51687655564,
+            "gammaRidgeFine": 0.0037951193504321746
+        },
+        {
+            "freqFine": 8690.576021237197,
+            "gammaRidgeFine": 0.003641001465613615
+        },
+        {
+            "freqFine": 8552.852866565388,
+            "gammaRidgeFine": 0.003458028590835427
+        },
+        {
+            "freqFine": 8417.312267720314,
+            "gammaRidgeFine": 0.003366335015938494
+        },
+        {
+            "freqFine": 8283.919636836563,
+            "gammaRidgeFine": 0.0034211204782506367
+        },
+        {
+            "freqFine": 8152.640934176945,
+            "gammaRidgeFine": 0.003574004259934967
+        },
+        {
+            "freqFine": 8023.442659446069,
+            "gammaRidgeFine": 0.0037081100811345654
+        },
+        {
+            "freqFine": 7896.291843241603,
+            "gammaRidgeFine": 0.0037214955865511917
+        },
+        {
+            "freqFine": 7771.156038640976,
+            "gammaRidgeFine": 0.003599368063105714
+        },
+        {
+            "freqFine": 7648.0033129214125,
+            "gammaRidgeFine": 0.003423775437249936
+        },
+        {
+            "freqFine": 7526.802239411217,
+            "gammaRidgeFine": 0.0033142638255399333
+        },
+        {
+            "freqFine": 7407.521889470159,
+            "gammaRidgeFine": 0.003342228153357922
+        },
+        {
+            "freqFine": 7290.131824596982,
+            "gammaRidgeFine": 0.0034801152928208116
+        },
+        {
+            "freqFine": 7174.60208866196,
+            "gammaRidgeFine": 0.003621448345941779
+        },
+        {
+            "freqFine": 7060.90320026253,
+            "gammaRidgeFine": 0.0036571119328831143
+        },
+        {
+            "freqFine": 6949.006145200122,
+            "gammaRidgeFine": 0.003553390789012852
+        },
+        {
+            "freqFine": 6838.8823690761965,
+            "gammaRidgeFine": 0.0033761873820989017
+        },
+        {
+            "freqFine": 6730.503770005556,
+            "gammaRidgeFine": 0.003244360814502514
+        },
+        {
+            "freqFine": 6623.8426914452375,
+            "gammaRidgeFine": 0.003245584469716503
+        },
+        {
+            "freqFine": 6518.871915136936,
+            "gammaRidgeFine": 0.0033744833352419594
+        },
+        {
+            "freqFine": 6415.564654161351,
+            "gammaRidgeFine": 0.0035367128296706365
+        },
+        {
+            "freqFine": 6313.894546102591,
+            "gammaRidgeFine": 0.0036158832083807283
+        },
+        {
+            "freqFine": 6213.83564632088,
+            "gammaRidgeFine": 0.0035558115673725702
+        },
+        {
+            "freqFine": 6115.36242133187,
+            "gammaRidgeFine": 0.0033997601187476115
+        },
+        {
+            "freqFine": 6018.449742290913,
+            "gammaRidgeFine": 0.0032589261596511513
+        },
+        {
+            "freqFine": 5923.072878580556,
+            "gammaRidgeFine": 0.0032328405018877283
+        },
+        {
+            "freqFine": 5829.207491499687,
+            "gammaRidgeFine": 0.0033384814315312434
+        },
+        {
+            "freqFine": 5736.829628052665,
+            "gammaRidgeFine": 0.0034985090102383574
+        },
+        {
+            "freqFine": 5645.915714836866,
+            "gammaRidgeFine": 0.0035968336488168815
+        },
+        {
+            "freqFine": 5556.442552027144,
+            "gammaRidgeFine": 0.0035617698520164854
+        },
+        {
+            "freqFine": 5468.387307455575,
+            "gammaRidgeFine": 0.003417340686845168
+        },
+        {
+            "freqFine": 5381.727510785062,
+            "gammaRidgeFine": 0.0032660642180301703
+        },
+        {
+            "freqFine": 5296.441047775235,
+            "gammaRidgeFine": 0.0032156062878997333
+        },
+        {
+            "freqFine": 5212.506154639237,
+            "gammaRidgeFine": 0.0033017938635881428
+        },
+        {
+            "freqFine": 5129.901412489943,
+            "gammaRidgeFine": 0.003462966927832163
+        },
+        {
+            "freqFine": 5048.605741874211,
+            "gammaRidgeFine": 0.003583969844679243
+        },
+        {
+            "freqFine": 4968.598397393714,
+            "gammaRidgeFine": 0.003578430550982209
+        },
+        {
+            "freqFine": 4889.858962411026,
+            "gammaRidgeFine": 0.0034505859566949103
+        },
+        {
+            "freqFine": 4812.367343839632,
+            "gammaRidgeFine": 0.0032924174021253757
+        },
+        {
+            "freqFine": 4736.103767016466,
+            "gammaRidgeFine": 0.0032180851718620123
+        },
+        {
+            "freqFine": 4661.048770655743,
+            "gammaRidgeFine": 0.0032824677359161404
+        },
+        {
+            "freqFine": 4587.183201882727,
+            "gammaRidgeFine": 0.0034419219659623324
+        },
+        {
+            "freqFine": 4514.4882113462045,
+            "gammaRidgeFine": 0.0035852893511498884
+        },
+        {
+            "freqFine": 4442.945248408434,
+            "gammaRidgeFine": 0.0036131578573935347
+        },
+        {
+            "freqFine": 4372.536056411305,
+            "gammaRidgeFine": 0.0035088848811390926
+        },
+        {
+            "freqFine": 4303.242668017533,
+            "gammaRidgeFine": 0.003350567276100334
+        },
+        {
+            "freqFine": 4235.047400625661,
+            "gammaRidgeFine": 0.003255266747250015
+        },
+        {
+            "freqFine": 4167.932851857726,
+            "gammaRidgeFine": 0.003295286044919466
+        },
+        {
+            "freqFine": 4101.881895118451,
+            "gammaRidgeFine": 0.003446322191029433
+        },
+        {
+            "freqFine": 4036.877675224817,
+            "gammaRidgeFine": 0.003604628831287597
+        },
+        {
+            "freqFine": 3972.9036041048444,
+            "gammaRidgeFine": 0.0036611214958198876
+        },
+        {
+            "freqFine": 3909.943356564614,
+            "gammaRidgeFine": 0.0035795797540077792
+        },
+        {
+            "freqFine": 3847.980866122299,
+            "gammaRidgeFine": 0.003422896959848873
+        },
+        {
+            "freqFine": 3787.000320908258,
+            "gammaRidgeFine": 0.0033083442333914637
+        },
+        {
+            "freqFine": 3726.986159630098,
+            "gammaRidgeFine": 0.0033236826247563817
+        },
+        {
+            "freqFine": 3667.923067601669,
+            "gammaRidgeFine": 0.00346409793900864
+        },
+        {
+            "freqFine": 3609.7959728349806,
+            "gammaRidgeFine": 0.003635193691083528
+        },
+        {
+            "freqFine": 3552.5900421940773,
+            "gammaRidgeFine": 0.0037202134851454516
+        },
+        {
+            "freqFine": 3496.2906776098453,
+            "gammaRidgeFine": 0.003663687509357507
+        },
+        {
+            "freqFine": 3440.8835123548183,
+            "gammaRidgeFine": 0.0035116139695275297
+        },
+        {
+            "freqFine": 3386.3544073770076,
+            "gammaRidgeFine": 0.003379098852653898
+        },
+        {
+            "freqFine": 3332.6894476918246,
+            "gammaRidgeFine": 0.0033682791545168998
+        },
+        {
+            "freqFine": 3279.8749388312035,
+            "gammaRidgeFine": 0.003495074689026548
+        },
+        {
+            "freqFine": 3227.8974033489776,
+            "gammaRidgeFine": 0.0036772306073610756
+        },
+        {
+            "freqFine": 3176.7435773816546,
+            "gammaRidgeFine": 0.0037925767634670606
+        },
+        {
+            "freqFine": 3126.400407263675,
+            "gammaRidgeFine": 0.003766287456302219
+        },
+        {
+            "freqFine": 3076.855046196313,
+            "gammaRidgeFine": 0.0036248318005429837
+        },
+        {
+            "freqFine": 3028.0948509693803,
+            "gammaRidgeFine": 0.003477693951625421
+        },
+        {
+            "freqFine": 2980.1073787348796,
+            "gammaRidgeFine": 0.0034394872123652684
+        },
+        {
+            "freqFine": 2932.880383831765,
+            "gammaRidgeFine": 0.0035478754754359174
+        },
+        {
+            "freqFine": 2886.4018146610592,
+            "gammaRidgeFine": 0.0037360114707190124
+        },
+        {
+            "freqFine": 2840.659810610454,
+            "gammaRidgeFine": 0.0038796024074124985
+        },
+        {
+            "freqFine": 2795.642699027671,
+            "gammaRidgeFine": 0.0038855233587225726
+        },
+        {
+            "freqFine": 2751.3389922417928,
+            "gammaRidgeFine": 0.0037588526172428792
+        },
+        {
+            "freqFine": 2707.737384631766,
+            "gammaRidgeFine": 0.003600078198176415
+        },
+        {
+            "freqFine": 2664.8267497414026,
+            "gammaRidgeFine": 0.003533909819226291
+        },
+        {
+            "freqFine": 2622.596137440061,
+            "gammaRidgeFine": 0.0036201717295652157
+        },
+        {
+            "freqFine": 2581.0347711283603,
+            "gammaRidgeFine": 0.0038104127533744626
+        },
+        {
+            "freqFine": 2540.132044988143,
+            "gammaRidgeFine": 0.003981653671066555
+        },
+        {
+            "freqFine": 2499.877521276041,
+            "gammaRidgeFine": 0.004023828835340845
+        },
+        {
+            "freqFine": 2460.260927659932,
+            "gammaRidgeFine": 0.003918797330103867
+        },
+        {
+            "freqFine": 2421.2721545975824,
+            "gammaRidgeFine": 0.0037541632117234092
+        },
+        {
+            "freqFine": 2382.9012527568675,
+            "gammaRidgeFine": 0.003661367203521296
+        },
+        {
+            "freqFine": 2345.138430476836,
+            "gammaRidgeFine": 0.0037217769834432665
+        },
+        {
+            "freqFine": 2307.9740512690514,
+            "gammaRidgeFine": 0.003907803374775818
+        },
+        {
+            "freqFine": 2271.398631358488,
+            "gammaRidgeFine": 0.004101566452550992
+        },
+        {
+            "freqFine": 2235.402837263428,
+            "gammaRidgeFine": 0.004178551274605681
+        },
+        {
+            "freqFine": 2199.977483413709,
+            "gammaRidgeFine": 0.004096980924061377
+        },
+        {
+            "freqFine": 2165.11352980669,
+            "gammaRidgeFine": 0.003928802147986461
+        },
+        {
+            "freqFine": 2130.8020797004037,
+            "gammaRidgeFine": 0.0038093703059211923
+        },
+        {
+            "freqFine": 2097.034377343225,
+            "gammaRidgeFine": 0.0038410692649069314
+        },
+        {
+            "freqFine": 2063.8018057395507,
+            "gammaRidgeFine": 0.004019474218994844
+        },
+        {
+            "freqFine": 2031.0958844508784,
+            "gammaRidgeFine": 0.004235196789819747
+        },
+        {
+            "freqFine": 1998.9082674317158,
+            "gammaRidgeFine": 0.004351002087252229
+        },
+        {
+            "freqFine": 1967.2307408998156,
+            "gammaRidgeFine": 0.004299902707663108
+        },
+        {
+            "freqFine": 1936.055221240129,
+            "gammaRidgeFine": 0.00413414984872488
+        },
+        {
+            "freqFine": 1905.373752942008,
+            "gammaRidgeFine": 0.003989337819026955
+        },
+        {
+            "freqFine": 1875.1785065690683,
+            "gammaRidgeFine": 0.003988314959961142
+        },
+        {
+            "freqFine": 1845.4617767612442,
+            "gammaRidgeFine": 0.004153002907765946
+        },
+        {
+            "freqFine": 1816.2159802685048,
+            "gammaRidgeFine": 0.0043873182406277515
+        },
+        {
+            "freqFine": 1787.4336540157142,
+            "gammaRidgeFine": 0.004544352375476731
+        },
+        {
+            "freqFine": 1759.107453198183,
+            "gammaRidgeFine": 0.004530918979842899
+        },
+        {
+            "freqFine": 1731.2301494073747,
+            "gammaRidgeFine": 0.004375121845045709
+        },
+        {
+            "freqFine": 1703.7946287863408,
+            "gammaRidgeFine": 0.004207992681911809
+        },
+        {
+            "freqFine": 1676.7938902143633,
+            "gammaRidgeFine": 0.004171198240305366
+        },
+        {
+            "freqFine": 1650.221043520381,
+            "gammaRidgeFine": 0.004315936086547081
+        },
+        {
+            "freqFine": 1624.06930772473,
+            "gammaRidgeFine": 0.004565226427010799
+        },
+        {
+            "freqFine": 1598.3320093087307,
+            "gammaRidgeFine": 0.004767422536494001
+        },
+        {
+            "freqFine": 1573.0025805117225,
+            "gammaRidgeFine": 0.004803905102061454
+        },
+        {
+            "freqFine": 1548.074557655061,
+            "gammaRidgeFine": 0.004674459092983932
+        },
+        {
+            "freqFine": 1523.541579492692,
+            "gammaRidgeFine": 0.004498595587278942
+        },
+        {
+            "freqFine": 1499.397385587865,
+            "gammaRidgeFine": 0.004430660997391932
+        },
+        {
+            "freqFine": 1475.6358147155556,
+            "gammaRidgeFine": 0.0045487052171698595
+        },
+        {
+            "freqFine": 1452.2508032902272,
+            "gammaRidgeFine": 0.004796842637994098
+        },
+        {
+            "freqFine": 1429.2363838184872,
+            "gammaRidgeFine": 0.005023486023187613
+        },
+        {
+            "freqFine": 1406.5866833762861,
+            "gammaRidgeFine": 0.0050894563205767865
+        },
+        {
+            "freqFine": 1384.2959221102283,
+            "gammaRidgeFine": 0.004969142152167873
+        },
+        {
+            "freqFine": 1362.3584117626463,
+            "gammaRidgeFine": 0.0047715408482402475
+        },
+        {
+            "freqFine": 1340.76855422005,
+            "gammaRidgeFine": 0.0046645959288824385
+        },
+        {
+            "freqFine": 1319.5208400845654,
+            "gammaRidgeFine": 0.004755671208182559
+        },
+        {
+            "freqFine": 1298.609847268032,
+            "gammaRidgeFine": 0.005013322915376874
+        },
+        {
+            "freqFine": 1278.0302396083584,
+            "gammaRidgeFine": 0.005287233970765168
+        },
+        {
+            "freqFine": 1257.7767655078278,
+            "gammaRidgeFine": 0.005413807241936701
+        },
+        {
+            "freqFine": 1237.844256592962,
+            "gammaRidgeFine": 0.0053332433511786145
+        },
+        {
+            "freqFine": 1218.2276263956358,
+            "gammaRidgeFine": 0.005134205033256832
+        },
+        {
+            "freqFine": 1198.9218690550929,
+            "gammaRidgeFine": 0.00499263165597267
+        },
+        {
+            "freqFine": 1179.9220580405197,
+            "gammaRidgeFine": 0.005046802223580833
+        },
+        {
+            "freqFine": 1161.2233448938798,
+            "gammaRidgeFine": 0.005297263032107819
+        },
+        {
+            "freqFine": 1142.8209579926538,
+            "gammaRidgeFine": 0.005603903030156013
+        },
+        {
+            "freqFine": 1124.7102013321994,
+            "gammaRidgeFine": 0.005784105054315475
+        },
+        {
+            "freqFine": 1106.8864533274068,
+            "gammaRidgeFine": 0.005743416080783726
+        },
+        {
+            "freqFine": 1089.3451656333332,
+            "gammaRidgeFine": 0.005545357151552837
+        },
+        {
+            "freqFine": 1072.0818619845447,
+            "gammaRidgeFine": 0.005368904371629635
+        },
+        {
+            "freqFine": 1055.0921370528345,
+            "gammaRidgeFine": 0.005382105482119052
+        },
+        {
+            "freqFine": 1038.3716553230583,
+            "gammaRidgeFine": 0.005621178704393157
+        },
+        {
+            "freqFine": 1021.9161499867721,
+            "gammaRidgeFine": 0.005962113496039454
+        },
+        {
+            "freqFine": 1005.7214218534107,
+            "gammaRidgeFine": 0.006206994775996508
+        },
+        {
+            "freqFine": 989.7833382787225,
+            "gammaRidgeFine": 0.0062251961385993825
+        },
+        {
+            "freqFine": 974.0978321101759,
+            "gammaRidgeFine": 0.006048662246242044
+        },
+        {
+            "freqFine": 958.6609006490924,
+            "gammaRidgeFine": 0.005851416192422969
+        },
+        {
+            "freqFine": 943.468604629212,
+            "gammaRidgeFine": 0.005825773824447499
+        },
+        {
+            "freqFine": 928.5170672114613,
+            "gammaRidgeFine": 0.006042852097841863
+        },
+        {
+            "freqFine": 913.8024729946368,
+            "gammaRidgeFine": 0.0063981134799700546
+        },
+        {
+            "freqFine": 899.3210670417775,
+            "gammaRidgeFine": 0.006683276361645074
+        },
+        {
+            "freqFine": 885.0691539219645,
+            "gammaRidgeFine": 0.00673539292176704
+        },
+        {
+            "freqFine": 871.0430967672987,
+            "gammaRidgeFine": 0.006556840855177093
+        },
+        {
+            "freqFine": 857.2393163448351,
+            "gammaRidgeFine": 0.006318539824994834
+        },
+        {
+            "freqFine": 843.6542901432108,
+            "gammaRidgeFine": 0.006241286260016179
+        },
+        {
+            "freqFine": 830.2845514737619,
+            "gammaRidgeFine": 0.006438078637770305
+        },
+        {
+            "freqFine": 817.1266885858715,
+            "gammaRidgeFine": 0.006830164812495355
+        },
+        {
+            "freqFine": 804.177343796347,
+            "gammaRidgeFine": 0.00719898757143767
+        },
+        {
+            "freqFine": 791.4332126325932,
+            "gammaRidgeFine": 0.007339971890517383
+        },
+        {
+            "freqFine": 778.8910429893562,
+            "gammaRidgeFine": 0.007209903033423064
+        },
+        {
+            "freqFine": 766.5476342988433,
+            "gammaRidgeFine": 0.006961425846781901
+        },
+        {
+            "freqFine": 754.3998367139817,
+            "gammaRidgeFine": 0.006837032449976616
+        },
+        {
+            "freqFine": 742.4445503046286,
+            "gammaRidgeFine": 0.006995786866667022
+        },
+        {
+            "freqFine": 730.6787242665196,
+            "gammaRidgeFine": 0.007396320843330149
+        },
+        {
+            "freqFine": 719.0993561427446,
+            "gammaRidgeFine": 0.007821950622706868
+        },
+        {
+            "freqFine": 707.7034910575738,
+            "gammaRidgeFine": 0.008033335496894146
+        },
+        {
+            "freqFine": 696.4882209624134,
+            "gammaRidgeFine": 0.007941525169076343
+        },
+        {
+            "freqFine": 685.4506838937211,
+            "gammaRidgeFine": 0.007676545218050223
+        },
+        {
+            "freqFine": 674.5880632426741,
+            "gammaRidgeFine": 0.007499050204536982
+        },
+        {
+            "freqFine": 663.8975870364145,
+            "gammaRidgeFine": 0.007614989235005466
+        },
+        {
+            "freqFine": 653.3765272306879,
+            "gammaRidgeFine": 0.008024934436986885
+        },
+        {
+            "freqFine": 643.0221990136831,
+            "gammaRidgeFine": 0.00851797643180591
+        },
+        {
+            "freqFine": 632.8319601209158,
+            "gammaRidgeFine": 0.008818577368448832
+        },
+        {
+            "freqFine": 622.8032101609576,
+            "gammaRidgeFine": 0.008784442689686582
+        },
+        {
+            "freqFine": 612.9333899518617,
+            "gammaRidgeFine": 0.008513556964078288
+        },
+        {
+            "freqFine": 603.219980868095,
+            "gammaRidgeFine": 0.008280244869703302
+        },
+        {
+            "freqFine": 593.6605041978254,
+            "gammaRidgeFine": 0.008341770454591207
+        },
+        {
+            "freqFine": 584.2525205103948,
+            "gammaRidgeFine": 0.008751765853190482
+        },
+        {
+            "freqFine": 574.9936290338098,
+            "gammaRidgeFine": 0.009315490904915116
+        },
+        {
+            "freqFine": 565.8814670421068,
+            "gammaRidgeFine": 0.009723362304317898
+        },
+        {
+            "freqFine": 556.9137092524167,
+            "gammaRidgeFine": 0.009771579848401917
+        },
+        {
+            "freqFine": 548.0880672315898,
+            "gammaRidgeFine": 0.009512872468912274
+        },
+        {
+            "freqFine": 539.4022888122258,
+            "gammaRidgeFine": 0.009226110593586865
+        },
+        {
+            "freqFine": 530.8541575179509,
+            "gammaRidgeFine": 0.009221391083433523
+        },
+        {
+            "freqFine": 522.4414919978115,
+            "gammaRidgeFine": 0.009616722263151911
+        },
+        {
+            "freqFine": 514.1621454696234,
+            "gammaRidgeFine": 0.010246828700595269
+        },
+        {
+            "freqFine": 506.0140051721502,
+            "gammaRidgeFine": 0.010773987483406708
+        },
+        {
+            "freqFine": 497.9949918259555,
+            "gammaRidgeFine": 0.010927147510158622
+        },
+        {
+            "freqFine": 490.10305910280465,
+            "gammaRidgeFine": 0.010700414492924125
+        },
+        {
+            "freqFine": 482.3361931034749,
+            "gammaRidgeFine": 0.010365835892194196
+        },
+        {
+            "freqFine": 474.6924118438359,
+            "gammaRidgeFine": 0.010285364234697999
+        },
+        {
+            "freqFine": 467.16976474908193,
+            "gammaRidgeFine": 0.010651884373849466
+        },
+        {
+            "freqFine": 459.76633215597167,
+            "gammaRidgeFine": 0.01134443716996075
+        },
+        {
+            "freqFine": 452.48022482296335,
+            "gammaRidgeFine": 0.012005988786941667
+        },
+        {
+            "freqFine": 445.30958344810637,
+            "gammaRidgeFine": 0.012294740872957947
+        },
+        {
+            "freqFine": 438.25257819457755,
+            "gammaRidgeFine": 0.01213257723463855
+        },
+        {
+            "freqFine": 431.3074082237367,
+            "gammaRidgeFine": 0.01177011928550282
+        },
+        {
+            "freqFine": 424.47230123557665,
+            "gammaRidgeFine": 0.01161499780333702
+        },
+        {
+            "freqFine": 417.7455130164639,
+            "gammaRidgeFine": 0.01194041717522251
+        },
+        {
+            "freqFine": 411.12532699403846,
+            "gammaRidgeFine": 0.01268192252704533
+        },
+        {
+            "freqFine": 404.6100537991745,
+            "gammaRidgeFine": 0.013473087212844657
+        },
+        {
+            "freqFine": 398.1980308348767,
+            "gammaRidgeFine": 0.013902452304264868
+        },
+        {
+            "freqFine": 391.8876218520123,
+            "gammaRidgeFine": 0.013812401122754106
+        },
+        {
+            "freqFine": 385.67721653176693,
+            "gammaRidgeFine": 0.013423417229065341
+        },
+        {
+            "freqFine": 379.56523007471327,
+            "gammaRidgeFine": 0.013186721911292519
+        },
+        {
+            "freqFine": 373.55010279639794,
+            "gammaRidgeFine": 0.013463171850039634
+        },
+        {
+            "freqFine": 367.6302997293314,
+            "gammaRidgeFine": 0.014256442306009483
+        },
+        {
+            "freqFine": 361.80431023128915,
+            "gammaRidgeFine": 0.015197010838546663
+        },
+        {
+            "freqFine": 356.07064759982023,
+            "gammaRidgeFine": 0.015798038601270294
+        },
+        {
+            "freqFine": 350.4278486928613,
+            "gammaRidgeFine": 0.015806902470429925
+        },
+        {
+            "freqFine": 344.8744735553681,
+            "gammaRidgeFine": 0.015399362319526861
+        },
+        {
+            "freqFine": 339.40910505185866,
+            "gammaRidgeFine": 0.015068386773670296
+        },
+        {
+            "freqFine": 334.0303485047846,
+            "gammaRidgeFine": 0.015277037455995414
+        },
+        {
+            "freqFine": 328.73683133862903,
+            "gammaRidgeFine": 0.01611948845664543
+        },
+        {
+            "freqFine": 323.527202729647,
+            "gammaRidgeFine": 0.017237479485872266
+        },
+        {
+            "freqFine": 318.4001332611578,
+            "gammaRidgeFine": 0.018063296826999205
+        },
+        {
+            "freqFine": 313.3543145842954,
+            "gammaRidgeFine": 0.01822563359458093
+        },
+        {
+            "freqFine": 308.3884590841413,
+            "gammaRidgeFine": 0.017829102796106396
+        },
+        {
+            "freqFine": 303.50129955114187,
+            "gammaRidgeFine": 0.01739820834602056
+        },
+        {
+            "freqFine": 298.6915888577391,
+            "gammaRidgeFine": 0.017512827264472546
+        },
+        {
+            "freqFine": 293.9580996401206,
+            "gammaRidgeFine": 0.018388146719013405
+        },
+        {
+            "freqFine": 289.2996239850163,
+            "gammaRidgeFine": 0.019702501854107476
+        },
+        {
+            "freqFine": 284.71497312145823,
+            "gammaRidgeFine": 0.02080888979578519
+        },
+        {
+            "freqFine": 280.2029771174231,
+            "gammaRidgeFine": 0.021192858264324967
+        },
+        {
+            "freqFine": 275.7624845812853,
+            "gammaRidgeFine": 0.020853960690058116
+        },
+        {
+            "freqFine": 271.3923623679983,
+            "gammaRidgeFine": 0.020329203809229666
+        },
+        {
+            "freqFine": 267.09149528993385,
+            "gammaRidgeFine": 0.020325725760962973
+        },
+        {
+            "freqFine": 262.8587858323045,
+            "gammaRidgeFine": 0.02121344679135603
+        },
+        {
+            "freqFine": 258.6931538730926,
+            "gammaRidgeFine": 0.022741067564023946
+        },
+        {
+            "freqFine": 254.5935364074223,
+            "gammaRidgeFine": 0.024192171540550735
+        },
+        {
+            "freqFine": 250.5588872762948,
+            "gammaRidgeFine": 0.02488773565510528
+        },
+        {
+            "freqFine": 246.588176899627,
+            "gammaRidgeFine": 0.02468427450783253
+        },
+        {
+            "freqFine": 242.68039201351655,
+            "gammaRidgeFine": 0.024103121288737917
+        },
+        {
+            "freqFine": 238.83453541167367,
+            "gammaRidgeFine": 0.023979002538861417
+        },
+        {
+            "freqFine": 235.04962569094994,
+            "gammaRidgeFine": 0.024862818095681513
+        },
+        {
+            "freqFine": 231.32469700089783,
+            "gammaRidgeFine": 0.026604221333498178
+        },
+        {
+            "freqFine": 227.65879879730255,
+            "gammaRidgeFine": 0.02842817142610124
+        },
+        {
+            "freqFine": 224.05099559961585,
+            "gammaRidgeFine": 0.029473793128839586
+        },
+        {
+            "freqFine": 220.50036675223782,
+            "gammaRidgeFine": 0.029423815461757402
+        },
+        {
+            "freqFine": 217.00600618957816,
+            "gammaRidgeFine": 0.0287672688249268
+        },
+        {
+            "freqFine": 213.56702220484294,
+            "gammaRidgeFine": 0.028483816005963933
+        },
+        {
+            "freqFine": 210.18253722248548,
+            "gammaRidgeFine": 0.029351614360185
+        },
+        {
+            "freqFine": 206.85168757426106,
+            "gammaRidgeFine": 0.03136630289044273
+        },
+        {
+            "freqFine": 203.57362327883394,
+            "gammaRidgeFine": 0.03370217539368684
+        },
+        {
+            "freqFine": 200.34750782487373,
+            "gammaRidgeFine": 0.03527323222944598
+        },
+        {
+            "freqFine": 197.17251795759123,
+            "gammaRidgeFine": 0.03551650808535489
+        },
+        {
+            "freqFine": 194.04784346865722,
+            "gammaRidgeFine": 0.034836326893974444
+        },
+        {
+            "freqFine": 190.97268698944836,
+            "gammaRidgeFine": 0.03436529002236707
+        },
+        {
+            "freqFine": 187.94626378757263,
+            "gammaRidgeFine": 0.035179322642820386
+        },
+        {
+            "freqFine": 184.9678015666163,
+            "gammaRidgeFine": 0.037510695556360725
+        },
+        {
+            "freqFine": 182.03654026906707,
+            "gammaRidgeFine": 0.040533996267117484
+        },
+        {
+            "freqFine": 179.1517318823582,
+            "gammaRidgeFine": 0.04291397299147841
+        },
+        {
+            "freqFine": 176.3126402479876,
+            "gammaRidgeFine": 0.04375779057415208
+        },
+        {
+            "freqFine": 173.51854087366212,
+            "gammaRidgeFine": 0.04329557447092664
+        },
+        {
+            "freqFine": 170.7687207484171,
+            "gammaRidgeFine": 0.04277165855466606
+        },
+        {
+            "freqFine": 168.0624781606684,
+            "gammaRidgeFine": 0.04357997039525413
+        },
+        {
+            "freqFine": 165.39912251914512,
+            "gammaRidgeFine": 0.04623739691860448
+        },
+        {
+            "freqFine": 162.7779741766626,
+            "gammaRidgeFine": 0.04994483729958684
+        },
+        {
+            "freqFine": 160.19836425668598,
+            "gammaRidgeFine": 0.053098326304476896
+        },
+        {
+            "freqFine": 157.65963448264353,
+            "gammaRidgeFine": 0.054433678405714954
+        },
+        {
+            "freqFine": 155.16113700994535,
+            "gammaRidgeFine": 0.053998413986356755
+        },
+        {
+            "freqFine": 152.7022342606622,
+            "gammaRidgeFine": 0.05321901321146313
+        },
+        {
+            "freqFine": 150.28229876082676,
+            "gammaRidgeFine": 0.05395248853276754
+        },
+        {
+            "freqFine": 147.90071298031086,
+            "gammaRidgeFine": 0.05715378436695113
+        },
+        {
+            "freqFine": 145.55686917524187,
+            "gammaRidgeFine": 0.062115111545799066
+        },
+        {
+            "freqFine": 143.2501692329162,
+            "gammaRidgeFine": 0.06687752929284155
+        },
+        {
+            "freqFine": 140.98002451916923,
+            "gammaRidgeFine": 0.06959436789851345
+        },
+        {
+            "freqFine": 138.7458557281662,
+            "gammaRidgeFine": 0.0699068622630312
+        },
+        {
+            "freqFine": 136.54709273457095,
+            "gammaRidgeFine": 0.06931263178919088
+        },
+        {
+            "freqFine": 134.3831744480601,
+            "gammaRidgeFine": 0.07017919814267061
+        },
+        {
+            "freqFine": 132.2535486701404,
+            "gammaRidgeFine": 0.07403691890120613
+        },
+        {
+            "freqFine": 130.15767195323662,
+            "gammaRidgeFine": 0.08036999885950352
+        },
+        {
+            "freqFine": 128.0950094620126,
+            "gammaRidgeFine": 0.08684705991880516
+        },
+        {
+            "freqFine": 126.06503483688849,
+            "gammaRidgeFine": 0.09093444234375787
+        },
+        {
+            "freqFine": 124.0672300597231,
+            "gammaRidgeFine": 0.09179872691723623
+        },
+        {
+            "freqFine": 122.10108532162259,
+            "gammaRidgeFine": 0.09109827964337947
+        },
+        {
+            "freqFine": 120.1660988928461,
+            "gammaRidgeFine": 0.09197754479645232
+        },
+        {
+            "freqFine": 118.26177699477125,
+            "gammaRidgeFine": 0.09686195071608117
+        },
+        {
+            "freqFine": 116.38763367388985,
+            "gammaRidgeFine": 0.10559410989385093
+        },
+        {
+            "freqFine": 114.5431906778004,
+            "gammaRidgeFine": 0.11532995546484573
+        },
+        {
+            "freqFine": 112.72797733316466,
+            "gammaRidgeFine": 0.12243115955004412
+        },
+        {
+            "freqFine": 110.94153042560002,
+            "gammaRidgeFine": 0.12512608192875949
+        },
+        {
+            "freqFine": 109.18339408147345,
+            "gammaRidgeFine": 0.12502332466181953
+        },
+        {
+            "freqFine": 107.45311965157046,
+            "gammaRidgeFine": 0.12623890254357506
+        },
+        {
+            "freqFine": 105.75026559660601,
+            "gammaRidgeFine": 0.13256553904950638
+        },
+        {
+            "freqFine": 104.07439737455083,
+            "gammaRidgeFine": 0.14461592613868843
+        },
+        {
+            "freqFine": 102.42508732974335,
+            "gammaRidgeFine": 0.15907628380892147
+        },
+        {
+            "freqFine": 100.8019145837578,
+            "gammaRidgeFine": 0.17083910502728922
+        },
+        {
+            "freqFine": 99.20446492800345,
+            "gammaRidgeFine": 0.17670349671791796
+        },
+        {
+            "freqFine": 97.63233071802418,
+            "gammaRidgeFine": 0.17801549402220582
+        },
+        {
+            "freqFine": 96.08511076947428,
+            "gammaRidgeFine": 0.1801435804243507
+        },
+        {
+            "freqFine": 94.56241025574269,
+            "gammaRidgeFine": 0.18885342964697244
+        },
+        {
+            "freqFine": 93.06384060719867,
+            "gammaRidgeFine": 0.20599589924185716
+        },
+        {
+            "freqFine": 91.58901941203555,
+            "gammaRidgeFine": 0.22770103161452884
+        },
+        {
+            "freqFine": 90.13757031868451,
+            "gammaRidgeFine": 0.24672829885303454
+        },
+        {
+            "freqFine": 88.70912293977612,
+            "gammaRidgeFine": 0.25766240084630265
+        },
+        {
+            "freqFine": 87.3033127576226,
+            "gammaRidgeFine": 0.2613315832741283
+        },
+        {
+            "freqFine": 85.91978103119884,
+            "gammaRidgeFine": 0.26499215987547087
+        },
+        {
+            "freqFine": 84.55817470459745,
+            "gammaRidgeFine": 0.27763801805740906
+        },
+        {
+            "freqFine": 83.21814631693377,
+            "gammaRidgeFine": 0.30342554461077303
+        },
+        {
+            "freqFine": 81.89935391367995,
+            "gammaRidgeFine": 0.3379964611192211
+        },
+        {
+            "freqFine": 80.60146095940266,
+            "gammaRidgeFine": 0.3708684884210172
+        },
+        {
+            "freqFine": 79.32413625188522,
+            "gammaRidgeFine": 0.3928437368653007
+        },
+        {
+            "freqFine": 78.06705383760931,
+            "gammaRidgeFine": 0.4034098074598244
+        },
+        {
+            "freqFine": 76.82989292857685,
+            "gammaRidgeFine": 0.4124434045689617
+        },
+        {
+            "freqFine": 75.61233782045022,
+            "gammaRidgeFine": 0.4341424193650224
+        },
+        {
+            "freqFine": 74.41407781198873,
+            "gammaRidgeFine": 0.47682276008708313
+        },
+        {
+            "freqFine": 73.23480712576317,
+            "gammaRidgeFine": 0.5359289739605074
+        },
+        {
+            "freqFine": 72.07422483012553,
+            "gammaRidgeFine": 0.5962032342396609
+        },
+        {
+            "freqFine": 70.9320347624162,
+            "gammaRidgeFine": 0.6427536346811497
+        },
+        {
+            "freqFine": 69.80794545338797,
+            "gammaRidgeFine": 0.6737710000064411
+        },
+        {
+            "freqFine": 68.7016700528272,
+            "gammaRidgeFine": 0.7051530650896478
+        },
+        {
+            "freqFine": 67.61292625635448,
+            "gammaRidgeFine": 0.762050497404075
+        },
+        {
+            "freqFine": 66.54143623338454,
+            "gammaRidgeFine": 0.8619587882364009
+        },
+        {
+            "freqFine": 65.4869265562286,
+            "gammaRidgeFine": 1.0018363651330158
+        },
+        {
+            "freqFine": 64.4491281303194,
+            "gammaRidgeFine": 1.1612646868257073
+        },
+        {
+            "freqFine": 63.427776125542664,
+            "gammaRidgeFine": 1.3232798753985562
+        },
+        {
+            "freqFine": 62.42260990865676,
+            "gammaRidgeFine": 1.4999445804383669
+        },
+        {
+            "freqFine": 61.43337297678259,
+            "gammaRidgeFine": 1.7418111266382155
+        },
+        {
+            "freqFine": 60.45981289194862,
+            "gammaRidgeFine": 2.1182665081316827
+        },
+        {
+            "freqFine": 59.50168121667205,
+            "gammaRidgeFine": 2.678831942737043
+        },
+        {
+            "freqFine": 58.558733450561924,
+            "gammaRidgeFine": 3.4300856986098722
+        },
+        {
+            "freqFine": 57.630728967926,
+            "gammaRidgeFine": 4.367170812998152
+        },
+        {
+            "freqFine": 56.71743095636694,
+            "gammaRidgeFine": 5.5670594570323715
+        },
+        {
+            "freqFine": 55.81860635635167,
+            "gammaRidgeFine": 7.29052215215962
+        },
+        {
+            "freqFine": 54.93402580173773,
+            "gammaRidgeFine": 9.990481534454505
+        },
+        {
+            "freqFine": 54.06346356124308,
+            "gammaRidgeFine": 14.142211631500798
+        },
+        {
+            "freqFine": 53.20669748084249,
+            "gammaRidgeFine": 19.925894237194218
+        },
+        {
+            "freqFine": 52.36350892707773,
+            "gammaRidgeFine": 26.958408281094346
+        },
+        {
+            "freqFine": 51.53368273126529,
+            "gammaRidgeFine": 34.356612527905384
+        },
+        {
+            "freqFine": 50.71700713458884,
+            "gammaRidgeFine": 41.277976168577254
+        },
+        {
+            "freqFine": 49.9132737340618,
+            "gammaRidgeFine": 47.723238848065435
+        },
+        {
+            "freqFine": 49.12227742934576,
+            "gammaRidgeFine": 55.02416942268097
+        },
+        {
+            "freqFine": 48.34381637041243,
+            "gammaRidgeFine": 65.42169367920538
+        },
+        {
+            "freqFine": 47.577691906034346,
+            "gammaRidgeFine": 80.6447048693062
+        },
+        {
+            "freqFine": 46.82370853309222,
+            "gammaRidgeFine": 100.19950720214054
+        },
+        {
+            "freqFine": 46.08167384668575,
+            "gammaRidgeFine": 120.58788014685265
+        },
+        {
+            "freqFine": 45.35139849103454,
+            "gammaRidgeFine": 136.3425632484176
+        },
+        {
+            "freqFine": 44.63269611115777,
+            "gammaRidgeFine": 142.61489618483418
+        },
+        {
+            "freqFine": 43.92538330531895,
+            "gammaRidgeFine": 137.82661878653022
+        },
+        {
+            "freqFine": 43.229279578225004,
+            "gammaRidgeFine": 124.6214581911404
+        },
+        {
+            "freqFine": 42.5442072949663,
+            "gammaRidgeFine": 108.39827060139199
+        },
+        {
+            "freqFine": 41.869991635687136,
+            "gammaRidgeFine": 94.35295995199306
+        },
+        {
+            "freqFine": 41.206460550974555,
+            "gammaRidgeFine": 84.93412447612957
+        },
+        {
+            "freqFine": 40.55344471795366,
+            "gammaRidgeFine": 79.21194598498532
+        },
+        {
+            "freqFine": 39.910777497079394,
+            "gammaRidgeFine": 74.2716116382201
+        },
+        {
+            "freqFine": 39.27829488961238,
+            "gammaRidgeFine": 67.45441463970585
+        },
+        {
+            "freqFine": 38.65583549576929,
+            "gammaRidgeFine": 57.942774244020825
+        },
+        {
+            "freqFine": 38.04324047353582,
+            "gammaRidgeFine": 46.88237765013551
+        },
+        {
+            "freqFine": 37.440353498132815,
+            "gammaRidgeFine": 36.31140429512866
+        },
+        {
+            "freqFine": 36.847020722124704,
+            "gammaRidgeFine": 27.83798033447981
+        },
+        {
+            "freqFine": 36.26309073615974,
+            "gammaRidgeFine": 21.91937518758981
+        },
+        {
+            "freqFine": 35.68841453033298,
+            "gammaRidgeFine": 17.992921738819252
+        },
+        {
+            "freqFine": 35.122845456160995,
+            "gammaRidgeFine": 15.120322395420276
+        },
+        {
+            "freqFine": 34.56623918915958,
+            "gammaRidgeFine": 12.605796844904258
+        },
+        {
+            "freqFine": 34.01845369201444,
+            "gammaRidgeFine": 10.24059411711888
+        },
+        {
+            "freqFine": 33.479349178335255,
+            "gammaRidgeFine": 8.165934796565962
+        },
+        {
+            "freqFine": 32.94878807698462,
+            "gammaRidgeFine": 6.577379666920334
+        },
+        {
+            "freqFine": 32.42663499697173,
+            "gammaRidgeFine": 5.511829720946754
+        },
+        {
+            "freqFine": 31.912756692902978,
+            "gammaRidgeFine": 4.823703818650633
+        },
+        {
+            "freqFine": 31.407022030979526,
+            "gammaRidgeFine": 4.301858526863861
+        },
+        {
+            "freqFine": 30.909301955534236,
+            "gammaRidgeFine": 3.8044388096599544
+        },
+        {
+            "freqFine": 30.419469456098444,
+            "gammaRidgeFine": 3.314598339267033
+        },
+        {
+            "freqFine": 29.937399534990966,
+            "gammaRidgeFine": 2.89945057180653
+        },
+        {
+            "freqFine": 29.462969175420557,
+            "gammaRidgeFine": 2.6233495805696787
+        },
+        {
+            "freqFine": 28.99605731009414,
+            "gammaRidgeFine": 2.48493285312068
+        },
+        {
+            "freqFine": 28.53654479032195,
+            "gammaRidgeFine": 2.4163761114578928
+        },
+        {
+            "freqFine": 28.084314355612893,
+            "gammaRidgeFine": 2.333756333186206
+        },
+        {
+            "freqFine": 27.639250603751382,
+            "gammaRidgeFine": 2.1945562310526245
+        },
+        {
+            "freqFine": 27.201239961348456,
+            "gammaRidgeFine": 2.0201934345782555
+        },
+        {
+            "freqFine": 26.770170654859815,
+            "gammaRidgeFine": 1.871295535970311
+        },
+        {
+            "freqFine": 26.345932682062603,
+            "gammaRidgeFine": 1.7977373758315605
+        },
+        {
+            "freqFine": 25.92841778398477,
+            "gammaRidgeFine": 1.8008329208651954
+        },
+        {
+            "freqFine": 25.51751941727899,
+            "gammaRidgeFine": 1.833317824213444
+        },
+        {
+            "freqFine": 25.11313272703441,
+            "gammaRidgeFine": 1.8344531449604442
+        },
+        {
+            "freqFine": 24.7151545200195,
+            "gammaRidgeFine": 1.7732547306506095
+        },
+        {
+            "freqFine": 24.323483238348402,
+            "gammaRidgeFine": 1.6687623917775725
+        },
+        {
+            "freqFine": 23.938018933565175,
+            "gammaRidgeFine": 1.5740115719893164
+        },
+        {
+            "freqFine": 23.558663241138365,
+            "gammaRidgeFine": 1.5365386334985303
+        },
+        {
+            "freqFine": 23.185319355360097,
+            "gammaRidgeFine": 1.5642261902568277
+        },
+        {
+            "freqFine": 22.81789200464247,
+            "gammaRidgeFine": 1.6204381307824274
+        },
+        {
+            "freqFine": 22.456287427205908,
+            "gammaRidgeFine": 1.6509843062954792
+        },
+        {
+            "freqFine": 22.10041334715256,
+            "gammaRidgeFine": 1.622957006895366
+        },
+        {
+            "freqFine": 21.750178950918873,
+            "gammaRidgeFine": 1.5475837810997715
+        },
+        {
+            "freqFine": 21.405494864101545,
+            "gammaRidgeFine": 1.4711686096937504
+        },
+        {
+            "freqFine": 21.066273128650298,
+            "gammaRidgeFine": 1.4411717605420942
+        },
+        {
+            "freqFine": 20.732427180422526,
+            "gammaRidgeFine": 1.4720163339034371
+        },
+        {
+            "freqFine": 20.403871827093408,
+            "gammaRidgeFine": 1.5349907053873002
+        },
+        {
+            "freqFine": 20.080523226416112,
+            "gammaRidgeFine": 1.5791559958584644
+        },
+        {
+            "freqFine": 19.76229886482671,
+            "gammaRidgeFine": 1.5680571740431706
+        },
+        {
+            "freqFine": 19.449117536387746,
+            "gammaRidgeFine": 1.50591452791713
+        },
+        {
+            "freqFine": 19.140899322065906,
+            "gammaRidgeFine": 1.434637961313246
+        },
+        {
+            "freqFine": 18.837565569337865,
+            "gammaRidgeFine": 1.4039099923679423
+        },
+        {
+            "freqFine": 18.53903887211934,
+            "gammaRidgeFine": 1.4357441267920903
+        },
+        {
+            "freqFine": 18.245243051012434,
+            "gammaRidgeFine": 1.5087575637779411
+        },
+        {
+            "freqFine": 17.956103133865557,
+            "gammaRidgeFine": 1.5733512227797433
+        },
+        {
+            "freqFine": 17.671545336641884,
+            "gammaRidgeFine": 1.5870504832421675
+        },
+        {
+            "freqFine": 17.39149704459071,
+            "gammaRidgeFine": 1.544857323968104
+        },
+        {
+            "freqFine": 17.11588679371745,
+            "gammaRidgeFine": 1.482864361282408
+        },
+        {
+            "freqFine": 16.84464425254691,
+            "gammaRidgeFine": 1.4523796072840958
+        },
+        {
+            "freqFine": 16.577700204175915,
+            "gammaRidgeFine": 1.4829548402607233
+        },
+        {
+            "freqFine": 16.314986528610206,
+            "gammaRidgeFine": 1.560828048717336
+        },
+        {
+            "freqFine": 16.056436185381227,
+            "gammaRidgeFine": 1.6384713205421582
+        },
+        {
+            "freqFine": 15.801983196438577,
+            "gammaRidgeFine": 1.6687426583076552
+        },
+        {
+            "freqFine": 15.551562629313215,
+            "gammaRidgeFine": 1.6392859631577186
+        },
+        {
+            "freqFine": 15.305110580547849,
+            "gammaRidgeFine": 1.5822183037044433
+        },
+        {
+            "freqFine": 15.062564159389714,
+            "gammaRidgeFine": 1.5516043151537904
+        },
+        {
+            "freqFine": 14.823861471741804,
+            "gammaRidgeFine": 1.58445487145587
+        },
+        {
+            "freqFine": 14.588941604368573,
+            "gammaRidgeFine": 1.6732535748517934
+        },
+        {
+            "freqFine": 14.357744609351634,
+            "gammaRidgeFine": 1.770269581650588
+        },
+        {
+            "freqFine": 14.130211488792105,
+            "gammaRidgeFine": 1.8213701088017926
+        },
+        {
+            "freqFine": 13.906284179755216,
+            "gammaRidgeFine": 1.8055688312653415
+        },
+        {
+            "freqFine": 13.685905539453532,
+            "gammaRidgeFine": 1.7516616092924413
+        },
+        {
+            "freqFine": 13.4690193306651,
+            "gammaRidgeFine": 1.7190798078415717
+        },
+        {
+            "freqFine": 13.25557020738241,
+            "gammaRidgeFine": 1.7557083659782902
+        },
+        {
+            "freqFine": 13.045503700689068,
+            "gammaRidgeFine": 1.8625555813574972
+        },
+        {
+            "freqFine": 12.83876620486011,
+            "gammaRidgeFine": 1.991217630981235
+        },
+        {
+            "freqFine": 12.635304963682762,
+            "gammaRidgeFine": 2.0772744824630123
+        },
+        {
+            "freqFine": 12.435068056993705,
+            "gammaRidgeFine": 2.0867926961934598
+        },
+        {
+            "freqFine": 12.23800438742996,
+            "gammaRidgeFine": 2.042575878006822
+        },
+        {
+            "freqFine": 12.044063667389606,
+            "gammaRidgeFine": 2.0100774421199494
+        },
+        {
+            "freqFine": 11.853196406199137,
+            "gammaRidgeFine": 2.051432347236161
+        },
+        {
+            "freqFine": 11.665353897484302,
+            "gammaRidgeFine": 2.1797250821051883
+        },
+        {
+            "freqFine": 11.480488206740848,
+            "gammaRidgeFine": 2.3469592210160646
+        },
+        {
+            "freqFine": 11.298552159102472,
+            "gammaRidgeFine": 2.4762680054523902
+        },
+        {
+            "freqFine": 11.1194993273025,
+            "gammaRidgeFine": 2.517112188354306
+        },
+        {
+            "freqFine": 10.94328401982634,
+            "gammaRidgeFine": 2.4841646542070506
+        },
+        {
+            "freqFine": 10.769861269251814,
+            "gammaRidgeFine": 2.4503206167592
+        },
+        {
+            "freqFine": 10.59918682077402,
+            "gammaRidgeFine": 2.496328501240148
+        },
+        {
+            "freqFine": 10.431217120912292,
+            "gammaRidgeFine": 2.6515942516503928
+        },
+        {
+            "freqFine": 10.265909306395987,
+            "gammaRidgeFine": 2.869231663256424
+        },
+        {
+            "freqFine": 10.103221193226437,
+            "gammaRidgeFine": 3.0558898704425403
+        },
+        {
+            "freqFine": 9.943111265912316,
+            "gammaRidgeFine": 3.1378971145881014
+        },
+        {
+            "freqFine": 9.78553866687541,
+            "gammaRidgeFine": 3.11727188278398
+        },
+        {
+            "freqFine": 9.630463186024476,
+            "gammaRidgeFine": 3.0755287620571634
+        },
+        {
+            "freqFine": 9.477845250494207,
+            "gammaRidgeFine": 3.1189688764772043
+        },
+        {
+            "freqFine": 9.327645914546926,
+            "gammaRidgeFine": 3.3019077776043555
+        },
+        {
+            "freqFine": 9.179826849634122,
+            "gammaRidgeFine": 3.5829585607943217
+        },
+        {
+            "freqFine": 9.03435033461567,
+            "gammaRidgeFine": 3.8488816188986212
+        },
+        {
+            "freqFine": 8.89117924613397,
+            "gammaRidgeFine": 3.9931589920259207
+        },
+        {
+            "freqFine": 8.750277049140607,
+            "gammaRidgeFine": 3.995157543882828
+        },
+        {
+            "freqFine": 8.611607787573256,
+            "gammaRidgeFine": 3.9414093981880662
+        },
+        {
+            "freqFine": 8.475136075180137,
+            "gammaRidgeFine": 3.9691988017787843
+        },
+        {
+            "freqFine": 8.340827086490062,
+            "gammaRidgeFine": 4.168705054298685
+        },
+        {
+            "freqFine": 8.2086465479255,
+            "gammaRidgeFine": 4.5130439220861005
+        },
+        {
+            "freqFine": 8.078560729056468,
+            "gammaRidgeFine": 4.8697816095074185
+        },
+        {
+            "freqFine": 7.950536433993115,
+            "gammaRidgeFine": 5.091195116816102
+        },
+        {
+            "freqFine": 7.824540992914546,
+            "gammaRidgeFine": 5.1222104589125514
+        },
+        {
+            "freqFine": 7.7005422537320545,
+            "gammaRidgeFine": 5.047492675332851
+        },
+        {
+            "freqFine": 7.578508573884388,
+            "gammaRidgeFine": 5.0386685130450815
+        },
+        {
+            "freqFine": 7.458408812263043,
+            "gammaRidgeFine": 5.233858446596101
+        },
+        {
+            "freqFine": 7.340212321265593,
+            "gammaRidgeFine": 5.633816803494293
+        },
+        {
+            "freqFine": 7.223888938974808,
+            "gammaRidgeFine": 6.092312524882193
+        },
+        {
+            "freqFine": 7.109408981461854,
+            "gammaRidgeFine": 6.4141094210591465
+        },
+        {
+            "freqFine": 6.99674323521139,
+            "gammaRidgeFine": 6.495391487395781
+        },
+        {
+            "freqFine": 6.885862949666784,
+            "gammaRidgeFine": 6.405662233885146
+        },
+        {
+            "freqFine": 6.77673982989333,
+            "gammaRidgeFine": 6.346783814962956
+        },
+        {
+            "freqFine": 6.669346029357877,
+            "gammaRidgeFine": 6.511722699900917
+        },
+        {
+            "freqFine": 6.563654142822807,
+            "gammaRidgeFine": 6.9412111512104815
+        },
+        {
+            "freqFine": 6.45963719935263,
+            "gammaRidgeFine": 7.484075209948034
+        },
+        {
+            "freqFine": 6.357268655431476,
+            "gammaRidgeFine": 7.896891501828528
+        },
+        {
+            "freqFine": 6.256522388189511,
+            "gammaRidgeFine": 8.017932692114648
+        },
+        {
+            "freqFine": 6.157372688736848,
+            "gammaRidgeFine": 7.891474641214696
+        },
+        {
+            "freqFine": 6.059794255603011,
+            "gammaRidgeFine": 7.747791829217526
+        },
+        {
+            "freqFine": 5.96376218828039,
+            "gammaRidgeFine": 7.845209592163329
+        },
+        {
+            "freqFine": 5.86925198087006,
+            "gammaRidgeFine": 8.282447700259674
+        },
+        {
+            "freqFine": 5.77623951582818,
+            "gammaRidgeFine": 8.917120736057317
+        },
+        {
+            "freqFine": 5.684701057811617,
+            "gammaRidgeFine": 9.455895122803888
+        },
+        {
+            "freqFine": 5.594613247621047,
+            "gammaRidgeFine": 9.659867215294996
+        },
+        {
+            "freqFine": 5.505953096240033,
+            "gammaRidgeFine": 9.521383820021766
+        },
+        {
+            "freqFine": 5.418697978968624,
+            "gammaRidgeFine": 9.281720354137335
+        },
+        {
+            "freqFine": 5.332825629649825,
+            "gammaRidgeFine": 9.268633307421931
+        },
+        {
+            "freqFine": 5.248314134987652,
+            "gammaRidgeFine": 9.663079018690407
+        },
+        {
+            "freqFine": 5.165141928955181,
+            "gammaRidgeFine": 10.36096000753461
+        },
+        {
+            "freqFine": 5.083287787291275,
+            "gammaRidgeFine": 11.03455218608006
+        },
+        {
+            "freqFine": 5.002730822084414,
+            "gammaRidgeFine": 11.358572352465169
+        },
+        {
+            "freqFine": 4.923450476442467,
+            "gammaRidgeFine": 11.244909579123089
+        },
+        {
+            "freqFine": 4.845426519246876,
+            "gammaRidgeFine": 10.916516069669933
+        },
+        {
+            "freqFine": 4.7686390399899885,
+            "gammaRidgeFine": 10.760106713165884
+        },
+        {
+            "freqFine": 4.693068443694229,
+            "gammaRidgeFine": 11.05504036214488
+        },
+        {
+            "freqFine": 4.618695445911715,
+            "gammaRidgeFine": 11.769061995177916
+        },
+        {
+            "freqFine": 4.5455010678032,
+            "gammaRidgeFine": 12.570629768931042
+        },
+        {
+            "freqFine": 4.473466631294955,
+            "gammaRidgeFine": 13.057051987357339
+        },
+        {
+            "freqFine": 4.4025737543124075,
+            "gammaRidgeFine": 13.04156290412665
+        },
+        {
+            "freqFine": 4.332804346089354,
+            "gammaRidgeFine": 12.69346692197183
+        },
+        {
+            "freqFine": 4.264140602551425,
+            "gammaRidgeFine": 12.424471073180957
+        },
+        {
+            "freqFine": 4.196565001772791,
+            "gammaRidgeFine": 12.595449810961865
+        },
+        {
+            "freqFine": 4.130060299504835,
+            "gammaRidgeFine": 13.251333238802918
+        },
+        {
+            "freqFine": 4.064609524775676,
+            "gammaRidgeFine": 14.078148679740332
+        },
+        {
+            "freqFine": 4.000195975559469,
+            "gammaRidgeFine": 14.62078404061816
+        },
+        {
+            "freqFine": 3.936803214514263,
+            "gammaRidgeFine": 14.611344364711249
+        },
+        {
+            "freqFine": 3.8744150647874744,
+            "gammaRidgeFine": 14.172387547142044
+        },
+        {
+            "freqFine": 3.8130156058877893,
+            "gammaRidgeFine": 13.742999938266033
+        },
+        {
+            "freqFine": 3.7525891696225315,
+            "gammaRidgeFine": 13.77275926630607
+        },
+        {
+            "freqFine": 3.693120336099334,
+            "gammaRidgeFine": 14.398229151557034
+        },
+        {
+            "freqFine": 3.6345939297912553,
+            "gammaRidgeFine": 15.33509893967265
+        },
+        {
+            "freqFine": 3.5769950156642074,
+            "gammaRidgeFine": 16.070031150544118
+        },
+        {
+            "freqFine": 3.5203088953657615,
+            "gammaRidgeFine": 16.22262852727595
+        },
+        {
+            "freqFine": 3.4645211034743846,
+            "gammaRidgeFine": 15.821241713156168
+        },
+        {
+            "freqFine": 3.4096174038080433,
+            "gammaRidgeFine": 15.291098045064498
+        },
+        {
+            "freqFine": 3.355583785791379,
+            "gammaRidgeFine": 15.155816386782059
+        },
+        {
+            "freqFine": 3.3024064608804187,
+            "gammaRidgeFine": 15.660598498451238
+        },
+        {
+            "freqFine": 3.250071859043947,
+            "gammaRidgeFine": 16.586783441402694
+        },
+        {
+            "freqFine": 3.198566625300666,
+            "gammaRidgeFine": 17.395703605564936
+        },
+        {
+            "freqFine": 3.147877616311176,
+            "gammaRidgeFine": 17.6058663365515
+        },
+        {
+            "freqFine": 3.097991897024021,
+            "gammaRidgeFine": 17.137444801309552
+        },
+        {
+            "freqFine": 3.0488967373748523,
+            "gammaRidgeFine": 16.376228821053232
+        },
+        {
+            "freqFine": 3.000579609037939,
+            "gammaRidgeFine": 15.906603945129875
+        },
+        {
+            "freqFine": 2.953028182229092,
+            "gammaRidgeFine": 16.0995414464177
+        },
+        {
+            "freqFine": 2.906230322559323,
+            "gammaRidgeFine": 16.846606621161964
+        },
+        {
+            "freqFine": 2.8601740879383257,
+            "gammaRidgeFine": 17.629085263412044
+        },
+        {
+            "freqFine": 2.814847725527037,
+            "gammaRidgeFine": 17.87498122371005
+        },
+        {
+            "freqFine": 2.7702396687385145,
+            "gammaRidgeFine": 17.353273843418194
+        },
+        {
+            "freqFine": 2.7263385342862883,
+            "gammaRidgeFine": 16.329075268662947
+        },
+        {
+            "freqFine": 2.6831331192795456,
+            "gammaRidgeFine": 15.373872074101486
+        },
+        {
+            "freqFine": 2.6406123983643215,
+            "gammaRidgeFine": 14.968770201775655
+        },
+        {
+            "freqFine": 2.5987655209099922,
+            "gammaRidgeFine": 15.180313916632944
+        },
+        {
+            "freqFine": 2.5575818082403834,
+            "gammaRidgeFine": 15.63013089848188
+        },
+        {
+            "freqFine": 2.5170507509087052,
+            "gammaRidgeFine": 15.76888099186804
+        },
+        {
+            "freqFine": 2.4771620060157264,
+            "gammaRidgeFine": 15.254341366692126
+        },
+        {
+            "freqFine": 2.4379053945704197,
+            "gammaRidgeFine": 14.169964124241817
+        },
+        {
+            "freqFine": 2.399270898892436,
+            "gammaRidgeFine": 12.943144272948855
+        },
+        {
+            "freqFine": 2.3612486600557667,
+            "gammaRidgeFine": 12.03752977952623
+        },
+        {
+            "freqFine": 2.3238289753728703,
+            "gammaRidgeFine": 11.644407950355665
+        },
+        {
+            "freqFine": 2.287002295918713,
+            "gammaRidgeFine": 11.582422570632332
+        },
+        {
+            "freqFine": 2.2507592240940246,
+            "gammaRidgeFine": 11.455947347118997
+        },
+        {
+            "freqFine": 2.215090511227193,
+            "gammaRidgeFine": 10.942233847878072
+        },
+        {
+            "freqFine": 2.1799870552141187,
+            "gammaRidgeFine": 10.00197335006973
+        },
+        {
+            "freqFine": 2.1454398981955176,
+            "gammaRidgeFine": 8.879711748892825
+        },
+        {
+            "freqFine": 2.1114402242710075,
+            "gammaRidgeFine": 7.916306737494922
+        },
+        {
+            "freqFine": 2.0779793572494247,
+            "gammaRidgeFine": 7.3194752161710674
+        },
+        {
+            "freqFine": 2.0450487584348105,
+            "gammaRidgeFine": 7.049141866745376
+        },
+        {
+            "freqFine": 2.012640024447441,
+            "gammaRidgeFine": 6.8785347310536205
+        },
+        {
+            "freqFine": 1.980744885079433,
+            "gammaRidgeFine": 6.568031477592262
+        },
+        {
+            "freqFine": 1.94935520118431,
+            "gammaRidgeFine": 6.022797085935206
+        },
+        {
+            "freqFine": 1.9184629626000145,
+            "gammaRidgeFine": 5.333239378063704
+        },
+        {
+            "freqFine": 1.8880602861048532,
+            "gammaRidgeFine": 4.688406200547855
+        },
+        {
+            "freqFine": 1.858139413405798,
+            "gammaRidgeFine": 4.237674210259426
+        },
+        {
+            "freqFine": 1.8286927091587046,
+            "gammaRidgeFine": 3.999286609175198
+        },
+        {
+            "freqFine": 1.7997126590198875,
+            "gammaRidgeFine": 3.8688477308368103
+        },
+        {
+            "freqFine": 1.7711918677285712,
+            "gammaRidgeFine": 3.707102502692717
+        },
+        {
+            "freqFine": 1.7431230572197498,
+            "gammaRidgeFine": 3.4371067830513153
+        },
+        {
+            "freqFine": 1.7154990647669135,
+            "gammaRidgeFine": 3.0849513436794074
+        },
+        {
+            "freqFine": 1.6883128411542483,
+            "gammaRidgeFine": 2.745245553225193
+        },
+        {
+            "freqFine": 1.6615574488777765,
+            "gammaRidgeFine": 2.505455607150424
+        },
+        {
+            "freqFine": 1.635226060375027,
+            "gammaRidgeFine": 2.385895710245535
+        },
+        {
+            "freqFine": 1.6093119562827272,
+            "gammaRidgeFine": 2.3337302674427423
+        },
+        {
+            "freqFine": 1.5838085237221373,
+            "gammaRidgeFine": 2.2677995889137468
+        },
+        {
+            "freqFine": 1.5587092546115444,
+            "gammaRidgeFine": 2.137238255455027
+        },
+        {
+            "freqFine": 1.5340077440054962,
+            "gammaRidgeFine": 1.9521985466412686
+        },
+        {
+            "freqFine": 1.5096976884603712,
+            "gammaRidgeFine": 1.7689778487372152
+        },
+        {
+            "freqFine": 1.4857728844258182,
+            "gammaRidgeFine": 1.6449674394663667
+        },
+        {
+            "freqFine": 1.4622272266617184,
+            "gammaRidgeFine": 1.5976971191930158
+        },
+        {
+            "freqFine": 1.4390547066802204,
+            "gammaRidgeFine": 1.5957441029791553
+        },
+        {
+            "freqFine": 1.4162494112124624,
+            "gammaRidgeFine": 1.5846368433901556
+        },
+        {
+            "freqFine": 1.3938055206996112,
+            "gammaRidgeFine": 1.5266150004317596
+        },
+        {
+            "freqFine": 1.3717173078077811,
+            "gammaRidgeFine": 1.4254813128498378
+        },
+        {
+            "freqFine": 1.3499791359665203,
+            "gammaRidgeFine": 1.3204590527564872
+        },
+        {
+            "freqFine": 1.328585457930441,
+            "gammaRidgeFine": 1.2556708441349371
+        },
+        {
+            "freqFine": 1.3075308143636464,
+            "gammaRidgeFine": 1.2482859314256567
+        },
+        {
+            "freqFine": 1.2868098324466029,
+            "gammaRidgeFine": 1.2777533100407186
+        },
+        {
+            "freqFine": 1.266417224505063,
+            "gammaRidgeFine": 1.302476079267852
+        },
+        {
+            "freqFine": 1.246347786660745,
+            "gammaRidgeFine": 1.2907314837820738
+        },
+        {
+            "freqFine": 1.2265963975033762,
+            "gammaRidgeFine": 1.2431803902198122
+        },
+        {
+            "freqFine": 1.2071580167837999,
+            "gammaRidgeFine": 1.191080855504597
+        },
+        {
+            "freqFine": 1.1880276841277662,
+            "gammaRidgeFine": 1.1721283475705384
+        },
+        {
+            "freqFine": 1.1692005177701308,
+            "gammaRidgeFine": 1.2018971976339943
+        },
+        {
+            "freqFine": 1.1506717133091027,
+            "gammaRidgeFine": 1.261807774723133
+        },
+        {
+            "freqFine": 1.1324365424802314,
+            "gammaRidgeFine": 1.3124601663732207
+        },
+        {
+            "freqFine": 1.1144903519498366,
+            "gammaRidgeFine": 1.3227438341995337
+        },
+        {
+            "freqFine": 1.0968285621275362,
+            "gammaRidgeFine": 1.293504872428793
+        },
+        {
+            "freqFine": 1.0794466659976139,
+            "gammaRidgeFine": 1.2581556411039994
+        },
+        {
+            "freqFine": 1.062340227968897,
+            "gammaRidgeFine": 1.259081804582237
+        },
+        {
+            "freqFine": 1.0455048827428592,
+            "gammaRidgeFine": 1.3163554925708196
+        },
+        {
+            "freqFine": 1.0289363341996733,
+            "gammaRidgeFine": 1.4113917551411752
+        },
+        {
+            "freqFine": 1.012630354301894,
+            "gammaRidgeFine": 1.4981370508778935
+        },
+        {
+            "freqFine": 0.9965827820155377,
+            "gammaRidgeFine": 1.5348880874973359
+        },
+        {
+            "freqFine": 0.980789522248248,
+            "gammaRidgeFine": 1.514548981034884
+        },
+        {
+            "freqFine": 0.96524654480429,
+            "gammaRidgeFine": 1.4712779828905096
+        },
+        {
+            "freqFine": 0.949949883356114,
+            "gammaRidgeFine": 1.4576617480012022
+        },
+        {
+            "freqFine": 0.9348956344321989,
+            "gammaRidgeFine": 1.507682307582844
+        },
+        {
+            "freqFine": 0.9200799564209541,
+            "gammaRidgeFine": 1.611642789814734
+        },
+        {
+            "freqFine": 0.9054990685903955,
+            "gammaRidgeFine": 1.7216463899150505
+        },
+        {
+            "freqFine": 0.8911492501233692,
+            "gammaRidgeFine": 1.7849231496851765
+        },
+        {
+            "freqFine": 0.8770268391680449,
+            "gammaRidgeFine": 1.7819996795049469
+        },
+        {
+            "freqFine": 0.8631282319034755,
+            "gammaRidgeFine": 1.742171435242516
+        },
+        {
+            "freqFine": 0.8494498816199558,
+            "gammaRidgeFine": 1.7241552834531013
+        },
+        {
+            "freqFine": 0.8359882978139556,
+            "gammaRidgeFine": 1.77492634574095
+        },
+        {
+            "freqFine": 0.8227400452974031,
+            "gammaRidgeFine": 1.8965578900361706
+        },
+        {
+            "freqFine": 0.8097017433210691,
+            "gammaRidgeFine": 2.0465506073916373
+        },
+        {
+            "freqFine": 0.796870064711858,
+            "gammaRidgeFine": 2.1735817596968676
+        },
+        {
+            "freqFine": 0.7842417350237627,
+            "gammaRidgeFine": 2.263787415718558
+        },
+        {
+            "freqFine": 0.7718135317022762,
+            "gammaRidgeFine": 2.3621982267106323
+        },
+        {
+            "freqFine": 0.7595822832620505,
+            "gammaRidgeFine": 2.5494494505083316
+        },
+        {
+            "freqFine": 0.747544868477574,
+            "gammaRidgeFine": 2.8871457501116855
+        },
+        {
+            "freqFine": 0.7356982155866888,
+            "gammaRidgeFine": 3.3737085037044805
+        },
+        {
+            "freqFine": 0.7240393015067234,
+            "gammaRidgeFine": 3.9531580113591307
+        },
+        {
+            "freqFine": 0.7125651510630466,
+            "gammaRidgeFine": 4.584923814601737
+        },
+        {
+            "freqFine": 0.7012728362298557,
+            "gammaRidgeFine": 5.331112608832434
+        },
+        {
+            "freqFine": 0.6901594753829798,
+            "gammaRidgeFine": 6.3856034939606
+        },
+        {
+            "freqFine": 0.6792222325645405,
+            "gammaRidgeFine": 7.991319187656416
+        },
+        {
+            "freqFine": 0.6684583167592558,
+            "gammaRidgeFine": 10.271213593927715
+        },
+        {
+            "freqFine": 0.6578649811822224,
+            "gammaRidgeFine": 13.090359981847945
+        },
+        {
+            "freqFine": 0.6474395225779697,
+            "gammaRidgeFine": 16.094506587598733
+        },
+        {
+            "freqFine": 0.6371792805306367,
+            "gammaRidgeFine": 18.9785256212294
+        },
+        {
+            "freqFine": 0.6270816367850736,
+            "gammaRidgeFine": 21.852847814566314
+        },
+        {
+            "freqFine": 0.6171440145787019,
+            "gammaRidgeFine": 25.422789504747414
+        },
+        {
+            "freqFine": 0.6073638779839705,
+            "gammaRidgeFine": 30.72840394518349
+        },
+        {
+            "freqFine": 0.5977387312612171,
+            "gammaRidgeFine": 38.463778737607875
+        },
+        {
+            "freqFine": 0.5882661182218004,
+            "gammaRidgeFine": 48.266169505223985
+        },
+        {
+            "freqFine": 0.5789436216013167,
+            "gammaRidgeFine": 58.55204615384582
+        },
+        {
+            "freqFine": 0.5697688624427508,
+            "gammaRidgeFine": 67.2407353756665
+        },
+        {
+            "freqFine": 0.5607394994894068,
+            "gammaRidgeFine": 73.09122498745593
+        },
+        {
+            "freqFine": 0.5518532285874497,
+            "gammaRidgeFine": 76.78533351239365
+        },
+        {
+            "freqFine": 0.5431077820979244,
+            "gammaRidgeFine": 80.83949061964942
+        },
+        {
+            "freqFine": 0.5345009283180882,
+            "gammaRidgeFine": 88.11491760684694
+        },
+        {
+            "freqFine": 0.5260304709119181,
+            "gammaRidgeFine": 99.73640935459574
+        },
+        {
+            "freqFine": 0.5176942483496341,
+            "gammaRidgeFine": 113.85899647355933
+        },
+        {
+            "freqFine": 0.5094901333561141,
+            "gammaRidgeFine": 126.356461059124
+        },
+        {
+            "freqFine": 0.5014160323680451,
+            "gammaRidgeFine": 133.24557618238873
+        },
+        {
+            "freqFine": 0.4934698849996775,
+            "gammaRidgeFine": 133.33438468852754
+        },
+        {
+            "freqFine": 0.4856496635170501,
+            "gammaRidgeFine": 129.2182382126272
+        },
+        {
+            "freqFine": 0.4779533723205381,
+            "gammaRidgeFine": 125.75787674413205
+        },
+        {
+            "freqFine": 0.47037904743561076,
+            "gammaRidgeFine": 126.92786854167095
+        },
+        {
+            "freqFine": 0.4629247560116545,
+            "gammaRidgeFine": 133.14913758397284
+        },
+        {
+            "freqFine": 0.45558859582873834,
+            "gammaRidgeFine": 140.97399167419982
+        },
+        {
+            "freqFine": 0.4483686948122006,
+            "gammaRidgeFine": 145.3956693115012
+        },
+        {
+            "freqFine": 0.4412632105549186,
+            "gammaRidgeFine": 143.21837006581183
+        },
+        {
+            "freqFine": 0.43427032984715874,
+            "gammaRidgeFine": 135.16535671656465
+        },
+        {
+            "freqFine": 0.42738826821387255,
+            "gammaRidgeFine": 125.29174025207635
+        },
+        {
+            "freqFine": 0.4206152694593251,
+            "gammaRidgeFine": 118.17473264287253
+        },
+        {
+            "freqFine": 0.4139496052189448,
+            "gammaRidgeFine": 115.8893552348337
+        },
+        {
+            "freqFine": 0.407389574518266,
+            "gammaRidgeFine": 116.84579057132994
+        },
+        {
+            "freqFine": 0.40093350333887023,
+            "gammaRidgeFine": 117.17533251778686
+        },
+        {
+            "freqFine": 0.3945797441912008,
+            "gammaRidgeFine": 113.55816502031873
+        },
+        {
+            "freqFine": 0.38832667569415225,
+            "gammaRidgeFine": 105.46678805331607
+        },
+        {
+            "freqFine": 0.3821727021613141,
+            "gammaRidgeFine": 95.34270282841449
+        },
+        {
+            "freqFine": 0.3761162531937796,
+            "gammaRidgeFine": 86.753823566544
+        },
+        {
+            "freqFine": 0.3701557832794033,
+            "gammaRidgeFine": 81.9543238432406
+        },
+        {
+            "freqFine": 0.3642897713984095,
+            "gammaRidgeFine": 80.54602701302865
+        },
+        {
+            "freqFine": 0.3585167206352548,
+            "gammaRidgeFine": 80.03433933114846
+        },
+        {
+            "freqFine": 0.3528351577966334,
+            "gammaRidgeFine": 77.71857427587517
+        },
+        {
+            "freqFine": 0.34724363303554434,
+            "gammaRidgeFine": 72.51574568150716
+        },
+        {
+            "freqFine": 0.3417407194813121,
+            "gammaRidgeFine": 65.50377157132212
+        },
+        {
+            "freqFine": 0.3363250128754705,
+            "gammaRidgeFine": 58.958057607162395
+        },
+        {
+            "freqFine": 0.33099513121342056,
+            "gammaRidgeFine": 54.694784851307794
+        },
+        {
+            "freqFine": 0.32574971439175987,
+            "gammaRidgeFine": 52.911747069408186
+        },
+        {
+            "freqFine": 0.32058742386120836,
+            "gammaRidgeFine": 52.2486651700093
+        },
+        {
+            "freqFine": 0.31550694228503023,
+            "gammaRidgeFine": 50.886669452677204
+        },
+        {
+            "freqFine": 0.3105069732028695,
+            "gammaRidgeFine": 47.82755161006181
+        },
+        {
+            "freqFine": 0.30558624069991597,
+            "gammaRidgeFine": 43.46858776397145
+        },
+        {
+            "freqFine": 0.30074348908130727,
+            "gammaRidgeFine": 39.164135558546
+        },
+        {
+            "freqFine": 0.2959774825516981,
+            "gammaRidgeFine": 36.18695046314565
+        },
+        {
+            "freqFine": 0.2912870048999026,
+            "gammaRidgeFine": 34.86321248281828
+        },
+        {
+            "freqFine": 0.2866708591885389,
+            "gammaRidgeFine": 34.45001453787117
+        },
+        {
+            "freqFine": 0.28212786744858515,
+            "gammaRidgeFine": 33.756503150385626
+        },
+        {
+            "freqFine": 0.2776568703787827,
+            "gammaRidgeFine": 32.00475731569567
+        },
+        {
+            "freqFine": 0.2732567270497999,
+            "gammaRidgeFine": 29.317531896352445
+        },
+        {
+            "freqFine": 0.26892631461308364,
+            "gammaRidgeFine": 26.538628239466533
+        },
+        {
+            "freqFine": 0.2646645280143281,
+            "gammaRidgeFine": 24.577302942740758
+        },
+        {
+            "freqFine": 0.2604702797114789,
+            "gammaRidgeFine": 23.7728690774558
+        },
+        {
+            "freqFine": 0.2563424993972111,
+            "gammaRidgeFine": 23.711348475889977
+        },
+        {
+            "freqFine": 0.2522801337258028,
+            "gammaRidgeFine": 23.575569072116007
+        },
+        {
+            "freqFine": 0.24828214604433738,
+            "gammaRidgeFine": 22.73933949034774
+        },
+        {
+            "freqFine": 0.24434751612816727,
+            "gammaRidgeFine": 21.176549752799854
+        },
+        {
+            "freqFine": 0.2404752399205657,
+            "gammaRidgeFine": 19.420639829966916
+        },
+        {
+            "freqFine": 0.23666432927650882,
+            "gammaRidgeFine": 18.141217086290403
+        },
+        {
+            "freqFine": 0.23291381171051598,
+            "gammaRidgeFine": 17.662291529324158
+        },
+        {
+            "freqFine": 0.22922273014848585,
+            "gammaRidgeFine": 17.759978241650224
+        },
+        {
+            "freqFine": 0.2255901426834679,
+            "gammaRidgeFine": 17.857857032139048
+        },
+        {
+            "freqFine": 0.22201512233529933,
+            "gammaRidgeFine": 17.454632487425375
+        },
+        {
+            "freqFine": 0.21849675681405625,
+            "gammaRidgeFine": 16.469861626691888
+        },
+        {
+            "freqFine": 0.21503414828725015,
+            "gammaRidgeFine": 15.271878471612032
+        },
+        {
+            "freqFine": 0.21162641315071687,
+            "gammaRidgeFine": 14.388750525694924
+        },
+        {
+            "freqFine": 0.2082726818031318,
+            "gammaRidgeFine": 14.124016729697765
+        },
+        {
+            "freqFine": 0.20497209842410283,
+            "gammaRidgeFine": 14.35179758678675
+        },
+        {
+            "freqFine": 0.20172382075577777,
+            "gammaRidgeFine": 14.624953678225054
+        },
+        {
+            "freqFine": 0.19852701988791277,
+            "gammaRidgeFine": 14.504553425978518
+        },
+        {
+            "freqFine": 0.19538088004634885,
+            "gammaRidgeFine": 13.869004416406034
+        },
+        {
+            "freqFine": 0.1922845983848365,
+            "gammaRidgeFine": 12.98656365683855
+        },
+        {
+            "freqFine": 0.18923738478016341,
+            "gammaRidgeFine": 12.310130091808757
+        },
+        {
+            "freqFine": 0.1862384616305268,
+            "gammaRidgeFine": 12.149559439281171
+        },
+        {
+            "freqFine": 0.18328706365710098,
+            "gammaRidgeFine": 12.456235853033407
+        },
+        {
+            "freqFine": 0.1803824377087518,
+            "gammaRidgeFine": 12.86724203613185
+        },
+        {
+            "freqFine": 0.17752384256984155,
+            "gammaRidgeFine": 12.969833533172473
+        },
+        {
+            "freqFine": 0.1747105487710839,
+            "gammaRidgeFine": 12.593727696979231
+        },
+        {
+            "freqFine": 0.17194183840339422,
+            "gammaRidgeFine": 11.924325021706444
+        },
+        {
+            "freqFine": 0.1692170049346898,
+            "gammaRidgeFine": 11.36130382428717
+        },
+        {
+            "freqFine": 0.16653535302959532,
+            "gammaRidgeFine": 11.228608208646438
+        },
+        {
+            "freqFine": 0.16389619837200192,
+            "gammaRidgeFine": 11.544395615126703
+        },
+        {
+            "freqFine": 0.1612988674904416,
+            "gammaRidgeFine": 12.012697311410747
+        },
+        {
+            "freqFine": 0.15874269758622706,
+            "gammaRidgeFine": 12.238829038884866
+        },
+        {
+            "freqFine": 0.15622703636431715,
+            "gammaRidgeFine": 12.01219284031183
+        },
+        {
+            "freqFine": 0.15375124186685912,
+            "gammaRidgeFine": 11.454367300690798
+        },
+        {
+            "freqFine": 0.15131468230937237,
+            "gammaRidgeFine": 10.928577287872505
+        },
+        {
+            "freqFine": 0.14891673591952637,
+            "gammaRidgeFine": 10.777689766024872
+        },
+        {
+            "freqFine": 0.14655679077847378,
+            "gammaRidgeFine": 11.079113286346074
+        },
+        {
+            "freqFine": 0.14423424466469928,
+            "gammaRidgeFine": 11.590932350326792
+        },
+        {
+            "freqFine": 0.14194850490034028,
+            "gammaRidgeFine": 11.926186510673869
+        },
+        {
+            "freqFine": 0.1396989881999459,
+            "gammaRidgeFine": 11.829732249736406
+        },
+        {
+            "freqFine": 0.13748512052163103,
+            "gammaRidgeFine": 11.359580110877534
+        },
+        {
+            "freqFine": 0.1353063369205898,
+            "gammaRidgeFine": 10.843507532257155
+        },
+        {
+            "freqFine": 0.1331620814049311,
+            "gammaRidgeFine": 10.642907095284945
+        },
+        {
+            "freqFine": 0.13105180679379672,
+            "gammaRidgeFine": 10.89347911150581
+        },
+        {
+            "freqFine": 0.12897497457773016,
+            "gammaRidgeFine": 11.4081372109964
+        },
+        {
+            "freqFine": 0.12693105478125719,
+            "gammaRidgeFine": 11.811096495545046
+        },
+        {
+            "freqFine": 0.1249195258276439,
+            "gammaRidgeFine": 11.806999353372426
+        },
+        {
+            "freqFine": 0.12293987440579958,
+            "gammaRidgeFine": 11.392468580178441
+        },
+        {
+            "freqFine": 0.12099159533928597,
+            "gammaRidgeFine": 10.85865295736224
+        },
+        {
+            "freqFine": 0.11907419145740519,
+            "gammaRidgeFine": 10.58306843024807
+        },
+        {
+            "freqFine": 0.1171871734683289,
+            "gammaRidgeFine": 10.759767490031463
+        },
+        {
+            "freqFine": 0.11533005983423952,
+            "gammaRidgeFine": 11.260534064375788
+        },
+        {
+            "freqFine": 0.11350237664844794,
+            "gammaRidgeFine": 11.726004223226784
+        },
+        {
+            "freqFine": 0.11170365751446058,
+            "gammaRidgeFine": 11.82168666962001
+        },
+        {
+            "freqFine": 0.1099334434269622,
+            "gammaRidgeFine": 11.476080566187967
+        },
+        {
+            "freqFine": 0.10819128265468446,
+            "gammaRidgeFine": 10.930313951428415
+        },
+        {
+            "freqFine": 0.10647673062513208,
+            "gammaRidgeFine": 10.562606344084294
+        },
+        {
+            "freqFine": 0.10478934981113341,
+            "gammaRidgeFine": 10.610335517732617
+        },
+        {
+            "freqFine": 0.10312870961919116,
+            "gammaRidgeFine": 10.983376986643679
+        },
+        {
+            "freqFine": 0.10149438627960142,
+            "gammaRidgeFine": 11.296044677906796
+        },
+        {
+            "freqFine": 0.0998859627383139,
+            "gammaRidgeFine": 11.092112062651944
+        },
+        {
+            "freqFine": 0.0983030285505071,
+            "gammaRidgeFine": 10.109061834014907
+        },
+        {
+            "freqFine": 0.0967451797758478,
+            "gammaRidgeFine": 8.413508356858278
+        },
+        {
+            "freqFine": 0.09521201887541265,
+            "gammaRidgeFine": 6.341617621480612
+        },
+        {
+            "freqFine": 0.09370315461024212,
+            "gammaRidgeFine": 4.311439148371179
+        },
+        {
+            "freqFine": 0.09221820194150218,
+            "gammaRidgeFine": 2.638825435349817
+        },
+        {
+            "freqFine": 0.09075678193222911,
+            "gammaRidgeFine": 1.4526970545966362
+        },
+        {
+            "freqFine": 0.08931852165062953,
+            "gammaRidgeFine": 0.7190079851698782
+        },
+        {
+            "freqFine": 0.0879030540749147,
+            "gammaRidgeFine": 0.3198911438492562
+        },
+        {
+            "freqFine": 0.08651001799964185,
+            "gammaRidgeFine": 0.12792086861582594
+        },
+        {
+            "freqFine": 0.08513905794354092,
+            "gammaRidgeFine": 0.04597620294282675
+        },
+        {
+            "freqFine": 0.08378982405880006,
+            "gammaRidgeFine": 0.014851451528857055
+        },
+        {
+            "freqFine": 0.0824619720417907,
+            "gammaRidgeFine": 0.004311663907418974
+        },
+        {
+            "freqFine": 0.08115516304520633,
+            "gammaRidgeFine": 0.0011250175236534833
+        },
+        {
+            "freqFine": 0.07986906359159378,
+            "gammaRidgeFine": 0.0002638221311814452
+        },
+        {
+            "freqFine": 0.07860334548825558,
+            "gammaRidgeFine": 5.560326873655249e-05
+        },
+        {
+            "freqFine": 0.07735768574349923,
+            "gammaRidgeFine": 1.0532377183379846e-05
+        },
+        {
+            "freqFine": 0.07613176648421546,
+            "gammaRidgeFine": 1.7930375399409161e-06
+        },
+        {
+            "freqFine": 0.07492527487476168,
+            "gammaRidgeFine": 2.7434005444066327e-07
+        },
+        {
+            "freqFine": 0.07373790303713104,
+            "gammaRidgeFine": 3.772470916446181e-08
+        },
+        {
+            "freqFine": 0.07256934797238733,
+            "gammaRidgeFine": 4.662291392993278e-09
+        },
+        {
+            "freqFine": 0.07141931148334343,
+            "gammaRidgeFine": 5.178568865883386e-10
+        },
+        {
+            "freqFine": 0.0702875000984666,
+            "gammaRidgeFine": 5.169599827639696e-11
+        },
+        {
+            "freqFine": 0.0691736249969889,
+            "gammaRidgeFine": 4.638108706156199e-12
+        },
+        {
+            "freqFine": 0.06807740193520452,
+            "gammaRidgeFine": 3.7399151290216913e-13
+        },
+        {
+            "freqFine": 0.06699855117393567,
+            "gammaRidgeFine": 2.7103126774904944e-14
+        },
+        {
+            "freqFine": 0.06593679740714672,
+            "gammaRidgeFine": 1.765281104115744e-15
+        },
+        {
+            "freqFine": 0.06489186969169078,
+            "gammaRidgeFine": 1.0333446006620087e-16
+        },
+        {
+            "freqFine": 0.06386350137816904,
+            "gammaRidgeFine": 5.436423771539618e-18
+        },
+        {
+            "freqFine": 0.06285143004288647,
+            "gammaRidgeFine": 2.570503841195033e-19
+        },
+        {
+            "freqFine": 0.061855397420884514,
+            "gammaRidgeFine": 1.092345534613831e-20
+        },
+        {
+            "freqFine": 0.06087514934003643,
+            "gammaRidgeFine": 4.1719456716688945e-22
+        },
+        {
+            "freqFine": 0.059910435656186374,
+            "gammaRidgeFine": 1.432036465425567e-23
+        },
+        {
+            "freqFine": 0.058961010189316314,
+            "gammaRidgeFine": 4.417802898957689e-25
+        },
+        {
+            "freqFine": 0.058026630660725206,
+            "gammaRidgeFine": 1.2248852947869506e-26
+        },
+        {
+            "freqFine": 0.05710705863120251,
+            "gammaRidgeFine": 3.0522586408392666e-28
+        },
+        {
+            "freqFine": 0.056202059440182604,
+            "gammaRidgeFine": 6.835716913908987e-30
+        },
+        {
+            "freqFine": 0.055311402145863005,
+            "gammaRidgeFine": 1.3758897408040463e-31
+        },
+        {
+            "freqFine": 0.054434859466271406,
+            "gammaRidgeFine": 2.48897206207968e-33
+        },
+        {
+            "freqFine": 0.05357220772126731,
+            "gammaRidgeFine": 4.046627581935966e-35
+        },
+        {
+            "freqFine": 0.052723226775461665,
+            "gammaRidgeFine": 5.912937370913424e-37
+        },
+        {
+            "freqFine": 0.0518876999820421,
+            "gammaRidgeFine": 7.76515531692273e-39
+        },
+        {
+            "freqFine": 0.05106541412748786,
+            "gammaRidgeFine": 9.165028941290982e-41
+        },
+        {
+            "freqFine": 0.050256159377161394,
+            "gammaRidgeFine": 9.721971883404554e-43
+        },
+        {
+            "freqFine": 0.049459729221761166,
+            "gammaRidgeFine": 9.268548073936273e-45
+        },
+        {
+            "freqFine": 0.048675920424624125,
+            "gammaRidgeFine": 7.941561055006662e-47
+        },
+        {
+            "freqFine": 0.04790453296986272,
+            "gammaRidgeFine": 6.1155690978597665e-49
+        },
+        {
+            "freqFine": 0.04714537001132383,
+            "gammaRidgeFine": 4.2325753855116914e-51
+        },
+        {
+            "freqFine": 0.046398237822357094,
+            "gammaRidgeFine": 2.6327483701562144e-53
+        },
+        {
+            "freqFine": 0.045662945746378254,
+            "gammaRidgeFine": 1.471806882000785e-55
+        },
+        {
+            "freqFine": 0.04493930614821694,
+            "gammaRidgeFine": 7.394845966612876e-58
+        },
+        {
+            "freqFine": 0.044227134366234974,
+            "gammaRidgeFine": 3.3392140657784624e-60
+        },
+        {
+            "freqFine": 0.04352624866520349,
+            "gammaRidgeFine": 1.3551776052236315e-62
+        },
+        {
+            "freqFine": 0.042836470189927284,
+            "gammaRidgeFine": 4.942936114057721e-65
+        },
+        {
+            "freqFine": 0.04215762291960314,
+            "gammaRidgeFine": 1.6203566084282225e-67
+        },
+        {
+            "freqFine": 0.04148953362290249,
+            "gammaRidgeFine": 4.773896928907016e-70
+        },
+        {
+            "freqFine": 0.04083203181376529,
+            "gammaRidgeFine": 1.264073414926485e-72
+        },
+        {
+            "freqFine": 0.040184949707894574,
+            "gammaRidgeFine": 3.0082116118254787e-75
+        },
+        {
+            "freqFine": 0.039548122179940796,
+            "gammaRidgeFine": 6.434003533871495e-78
+        },
+        {
+            "freqFine": 0.03892138672136393,
+            "gammaRidgeFine": 1.2367759543096887e-80
+        },
+        {
+            "freqFine": 0.03830458339896411,
+            "gammaRidgeFine": 2.1366707118613018e-83
+        },
+        {
+            "freqFine": 0.037697554814068994,
+            "gammaRidgeFine": 3.3175768139679835e-86
+        },
+        {
+            "freqFine": 0.037100146062368375,
+            "gammaRidgeFine": 4.629575844874361e-89
+        },
+        {
+            "freqFine": 0.036512204694384515,
+            "gammaRidgeFine": 5.806283616498418e-92
+        },
+        {
+            "freqFine": 0.03593358067656973,
+            "gammaRidgeFine": 6.544735720943576e-95
+        },
+        {
+            "freqFine": 0.03536412635302004,
+            "gammaRidgeFine": 6.630141678219298e-98
+        },
+        {
+            "freqFine": 0.03480369640779561,
+            "gammaRidgeFine": 6.03657123023867e-101
+        },
+        {
+            "freqFine": 0.034252147827838676,
+            "gammaRidgeFine": 4.9396329213048304e-104
+        },
+        {
+            "freqFine": 0.033709339866478345,
+            "gammaRidgeFine": 3.632752826689941e-107
+        },
+        {
+            "freqFine": 0.03317513400751454,
+            "gammaRidgeFine": 2.401119907414644e-110
+        },
+        {
+            "freqFine": 0.032649393929870735,
+            "gammaRidgeFine": 1.4263584314141302e-113
+        },
+        {
+            "freqFine": 0.03213198547280686,
+            "gammaRidgeFine": 7.615182660648526e-117
+        },
+        {
+            "freqFine": 0.03162277660168379,
+            "gammaRidgeFine": 3.654002182151573e-120
+        }
+    ],
+    "equivalentCircuitDiagram": {
+        "rct": 2.0034893977129457e-05,
+        "cdl": -2.5462348529514182e-08,
+        "zw": 0.6130369929204263,
+        "r0": 0.0007318599468285011
+    },
+    "realPartCorrelation": [
+        [
+            0,
+            0,
+            1.0
+        ],
+        [
+            0,
+            1,
+            0.9203158221690038
+        ],
+        [
+            0,
+            2,
+            0.9416668687144683
+        ],
+        [
+            0,
+            3,
+            0.909238539127403
+        ],
+        [
+            0,
+            4,
+            0.9154741503614335
+        ],
+        [
+            0,
+            5,
+            0.9350346370312367
+        ],
+        [
+            0,
+            6,
+            0.9167306645440254
+        ],
+        [
+            0,
+            7,
+            0.9166589005379508
+        ],
+        [
+            0,
+            8,
+            0.9253350344297133
+        ],
+        [
+            0,
+            9,
+            0.9285863531213233
+        ],
+        [
+            0,
+            10,
+            0.9423312514744917
+        ],
+        [
+            0,
+            11,
+            0.9066359722359422
+        ],
+        [
+            0,
+            12,
+            0.9206904387247319
+        ],
+        [
+            1,
+            0,
+            0.9203158221690038
+        ],
+        [
+            1,
+            1,
+            1.0
+        ],
+        [
+            1,
+            2,
+            0.914505976522132
+        ],
+        [
+            1,
+            3,
+            0.9140668169342252
+        ],
+        [
+            1,
+            4,
+            0.9424660351383066
+        ],
+        [
+            1,
+            5,
+            0.9224419152441348
+        ],
+        [
+            1,
+            6,
+            0.9261293812192544
+        ],
+        [
+            1,
+            7,
+            0.9281148030204563
+        ],
+        [
+            1,
+            8,
+            0.917977258867371
+        ],
+        [
+            1,
+            9,
+            0.9297407620987495
+        ],
+        [
+            1,
+            10,
+            0.9098064844498288
+        ],
+        [
+            1,
+            11,
+            0.913306264620041
+        ],
+        [
+            1,
+            12,
+            0.9375966496458489
+        ],
+        [
+            2,
+            0,
+            0.9416668687144683
+        ],
+        [
+            2,
+            1,
+            0.914505976522132
+        ],
+        [
+            2,
+            2,
+            1.0
+        ],
+        [
+            2,
+            3,
+            0.9065204235162795
+        ],
+        [
+            2,
+            4,
+            0.9089727018666114
+        ],
+        [
+            2,
+            5,
+            0.9328587060041227
+        ],
+        [
+            2,
+            6,
+            0.9217315885671484
+        ],
+        [
+            2,
+            7,
+            0.9115234209102613
+        ],
+        [
+            2,
+            8,
+            0.9323547667049152
+        ],
+        [
+            2,
+            9,
+            0.9374735669435452
+        ],
+        [
+            2,
+            10,
+            0.9328352125498387
+        ],
+        [
+            2,
+            11,
+            0.915057548329766
+        ],
+        [
+            2,
+            12,
+            0.9141519885722473
+        ],
+        [
+            3,
+            0,
+            0.909238539127403
+        ],
+        [
+            3,
+            1,
+            0.9140668169342252
+        ],
+        [
+            3,
+            2,
+            0.9065204235162795
+        ],
+        [
+            3,
+            3,
+            1.0
+        ],
+        [
+            3,
+            4,
+            0.9183660587226307
+        ],
+        [
+            3,
+            5,
+            0.9060982010887186
+        ],
+        [
+            3,
+            6,
+            0.9091469192664232
+        ],
+        [
+            3,
+            7,
+            0.9257773275659832
+        ],
+        [
+            3,
+            8,
+            0.914523881747966
+        ],
+        [
+            3,
+            9,
+            0.9381324114474429
+        ],
+        [
+            3,
+            10,
+            0.9191116447850567
+        ],
+        [
+            3,
+            11,
+            0.9249427103604696
+        ],
+        [
+            3,
+            12,
+            0.9138888252477172
+        ],
+        [
+            4,
+            0,
+            0.9154741503614335
+        ],
+        [
+            4,
+            1,
+            0.9424660351383065
+        ],
+        [
+            4,
+            2,
+            0.9089727018666114
+        ],
+        [
+            4,
+            3,
+            0.9183660587226307
+        ],
+        [
+            4,
+            4,
+            1.0
+        ],
+        [
+            4,
+            5,
+            0.9447748880463042
+        ],
+        [
+            4,
+            6,
+            0.9300488905945624
+        ],
+        [
+            4,
+            7,
+            0.9216825604355104
+        ],
+        [
+            4,
+            8,
+            0.9138820228609565
+        ],
+        [
+            4,
+            9,
+            0.9425742361633225
+        ],
+        [
+            4,
+            10,
+            0.9232122331844186
+        ],
+        [
+            4,
+            11,
+            0.9245792917467678
+        ],
+        [
+            4,
+            12,
+            0.9483314931567483
+        ],
+        [
+            5,
+            0,
+            0.9350346370312367
+        ],
+        [
+            5,
+            1,
+            0.9224419152441348
+        ],
+        [
+            5,
+            2,
+            0.9328587060041227
+        ],
+        [
+            5,
+            3,
+            0.9060982010887186
+        ],
+        [
+            5,
+            4,
+            0.9447748880463042
+        ],
+        [
+            5,
+            5,
+            1.0
+        ],
+        [
+            5,
+            6,
+            0.9487543590510455
+        ],
+        [
+            5,
+            7,
+            0.9135564548889779
+        ],
+        [
+            5,
+            8,
+            0.909889321636637
+        ],
+        [
+            5,
+            9,
+            0.9079228237633861
+        ],
+        [
+            5,
+            10,
+            0.9197052560478276
+        ],
+        [
+            5,
+            11,
+            0.9186559905458496
+        ],
+        [
+            5,
+            12,
+            0.9348887673853902
+        ],
+        [
+            6,
+            0,
+            0.9167306645440254
+        ],
+        [
+            6,
+            1,
+            0.9261293812192544
+        ],
+        [
+            6,
+            2,
+            0.9217315885671484
+        ],
+        [
+            6,
+            3,
+            0.9091469192664232
+        ],
+        [
+            6,
+            4,
+            0.9300488905945624
+        ],
+        [
+            6,
+            5,
+            0.9487543590510455
+        ],
+        [
+            6,
+            6,
+            1.0
+        ],
+        [
+            6,
+            7,
+            0.9278347740452174
+        ],
+        [
+            6,
+            8,
+            0.9
+        ],
+        [
+            6,
+            9,
+            0.9116636677107964
+        ],
+        [
+            6,
+            10,
+            0.922225883142506
+        ],
+        [
+            6,
+            11,
+            0.9404855421040637
+        ],
+        [
+            6,
+            12,
+            0.9285460355004325
+        ],
+        [
+            7,
+            0,
+            0.9166589005379508
+        ],
+        [
+            7,
+            1,
+            0.9281148030204563
+        ],
+        [
+            7,
+            2,
+            0.9115234209102613
+        ],
+        [
+            7,
+            3,
+            0.9257773275659832
+        ],
+        [
+            7,
+            4,
+            0.9216825604355104
+        ],
+        [
+            7,
+            5,
+            0.9135564548889779
+        ],
+        [
+            7,
+            6,
+            0.9278347740452174
+        ],
+        [
+            7,
+            7,
+            1.0
+        ],
+        [
+            7,
+            8,
+            0.9134053152930549
+        ],
+        [
+            7,
+            9,
+            0.9054547942458506
+        ],
+        [
+            7,
+            10,
+            0.918055413374936
+        ],
+        [
+            7,
+            11,
+            0.9171477588136376
+        ],
+        [
+            7,
+            12,
+            0.9318947232181191
+        ],
+        [
+            8,
+            0,
+            0.9253350344297133
+        ],
+        [
+            8,
+            1,
+            0.917977258867371
+        ],
+        [
+            8,
+            2,
+            0.9323547667049152
+        ],
+        [
+            8,
+            3,
+            0.914523881747966
+        ],
+        [
+            8,
+            4,
+            0.9138820228609565
+        ],
+        [
+            8,
+            5,
+            0.909889321636637
+        ],
+        [
+            8,
+            6,
+            0.9
+        ],
+        [
+            8,
+            7,
+            0.9134053152930549
+        ],
+        [
+            8,
+            8,
+            1.0
+        ],
+        [
+            8,
+            9,
+            0.9362667034535069
+        ],
+        [
+            8,
+            10,
+            0.9225365061774866
+        ],
+        [
+            8,
+            11,
+            0.9080714003757966
+        ],
+        [
+            8,
+            12,
+            0.9099571878229944
+        ],
+        [
+            9,
+            0,
+            0.9285863531213233
+        ],
+        [
+            9,
+            1,
+            0.9297407620987495
+        ],
+        [
+            9,
+            2,
+            0.9374735669435452
+        ],
+        [
+            9,
+            3,
+            0.9381324114474429
+        ],
+        [
+            9,
+            4,
+            0.9425742361633225
+        ],
+        [
+            9,
+            5,
+            0.9079228237633861
+        ],
+        [
+            9,
+            6,
+            0.9116636677107964
+        ],
+        [
+            9,
+            7,
+            0.9054547942458506
+        ],
+        [
+            9,
+            8,
+            0.9362667034535069
+        ],
+        [
+            9,
+            9,
+            1.0
+        ],
+        [
+            9,
+            10,
+            0.9334551670916049
+        ],
+        [
+            9,
+            11,
+            0.9202760314952382
+        ],
+        [
+            9,
+            12,
+            0.9328697131123578
+        ],
+        [
+            10,
+            0,
+            0.9423312514744917
+        ],
+        [
+            10,
+            1,
+            0.9098064844498288
+        ],
+        [
+            10,
+            2,
+            0.9328352125498387
+        ],
+        [
+            10,
+            3,
+            0.9191116447850567
+        ],
+        [
+            10,
+            4,
+            0.9232122331844186
+        ],
+        [
+            10,
+            5,
+            0.9197052560478276
+        ],
+        [
+            10,
+            6,
+            0.922225883142506
+        ],
+        [
+            10,
+            7,
+            0.918055413374936
+        ],
+        [
+            10,
+            8,
+            0.9225365061774866
+        ],
+        [
+            10,
+            9,
+            0.9334551670916049
+        ],
+        [
+            10,
+            10,
+            1.0
+        ],
+        [
+            10,
+            11,
+            0.908078805757856
+        ],
+        [
+            10,
+            12,
+            0.9230585336118465
+        ],
+        [
+            11,
+            0,
+            0.9066359722359422
+        ],
+        [
+            11,
+            1,
+            0.913306264620041
+        ],
+        [
+            11,
+            2,
+            0.915057548329766
+        ],
+        [
+            11,
+            3,
+            0.9249427103604696
+        ],
+        [
+            11,
+            4,
+            0.9245792917467678
+        ],
+        [
+            11,
+            5,
+            0.9186559905458496
+        ],
+        [
+            11,
+            6,
+            0.9404855421040637
+        ],
+        [
+            11,
+            7,
+            0.9171477588136376
+        ],
+        [
+            11,
+            8,
+            0.9080714003757966
+        ],
+        [
+            11,
+            9,
+            0.9202760314952382
+        ],
+        [
+            11,
+            10,
+            0.908078805757856
+        ],
+        [
+            11,
+            11,
+            1.0
+        ],
+        [
+            11,
+            12,
+            0.9185062203163356
+        ],
+        [
+            12,
+            0,
+            0.9206904387247319
+        ],
+        [
+            12,
+            1,
+            0.9375966496458489
+        ],
+        [
+            12,
+            2,
+            0.9141519885722473
+        ],
+        [
+            12,
+            3,
+            0.9138888252477172
+        ],
+        [
+            12,
+            4,
+            0.9483314931567483
+        ],
+        [
+            12,
+            5,
+            0.9348887673853902
+        ],
+        [
+            12,
+            6,
+            0.9285460355004325
+        ],
+        [
+            12,
+            7,
+            0.9318947232181191
+        ],
+        [
+            12,
+            8,
+            0.9099571878229944
+        ],
+        [
+            12,
+            9,
+            0.9328697131123578
+        ],
+        [
+            12,
+            10,
+            0.9230585336118465
+        ],
+        [
+            12,
+            11,
+            0.9185062203163356
+        ],
+        [
+            12,
+            12,
+            1.0
+        ]
+    ],
+    "imagPartCorrelation": [
+        [
+            0,
+            0,
+            1.0
+        ],
+        [
+            0,
+            1,
+            0.9099803244286716
+        ],
+        [
+            0,
+            2,
+            0.9137509947117702
+        ],
+        [
+            0,
+            3,
+            0.9336192693393592
+        ],
+        [
+            0,
+            4,
+            0.9071194904424487
+        ],
+        [
+            0,
+            5,
+            0.9206390231258421
+        ],
+        [
+            0,
+            6,
+            0.9148907821000845
+        ],
+        [
+            0,
+            7,
+            0.9336206404666278
+        ],
+        [
+            0,
+            8,
+            0.9304710088631951
+        ],
+        [
+            0,
+            9,
+            0.9202018976183073
+        ],
+        [
+            0,
+            10,
+            0.9463453030884814
+        ],
+        [
+            0,
+            11,
+            0.9272265263081616
+        ],
+        [
+            0,
+            12,
+            0.9313202593097583
+        ],
+        [
+            1,
+            0,
+            0.9099803244286716
+        ],
+        [
+            1,
+            1,
+            1.0
+        ],
+        [
+            1,
+            2,
+            0.9077047038461052
+        ],
+        [
+            1,
+            3,
+            0.9376653593063442
+        ],
+        [
+            1,
+            4,
+            0.9214759968735834
+        ],
+        [
+            1,
+            5,
+            0.9
+        ],
+        [
+            1,
+            6,
+            0.9283769288578038
+        ],
+        [
+            1,
+            7,
+            0.9121935089026142
+        ],
+        [
+            1,
+            8,
+            0.9161683821839524
+        ],
+        [
+            1,
+            9,
+            0.9297910152236991
+        ],
+        [
+            1,
+            10,
+            0.9207436496436128
+        ],
+        [
+            1,
+            11,
+            0.9333033117976303
+        ],
+        [
+            1,
+            12,
+            0.9285980634399046
+        ],
+        [
+            2,
+            0,
+            0.9137509947117702
+        ],
+        [
+            2,
+            1,
+            0.9077047038461052
+        ],
+        [
+            2,
+            2,
+            1.0
+        ],
+        [
+            2,
+            3,
+            0.926650975583169
+        ],
+        [
+            2,
+            4,
+            0.9053627525147026
+        ],
+        [
+            2,
+            5,
+            0.9289049872193372
+        ],
+        [
+            2,
+            6,
+            0.9214645264589845
+        ],
+        [
+            2,
+            7,
+            0.9281223857262815
+        ],
+        [
+            2,
+            8,
+            0.9169010857650389
+        ],
+        [
+            2,
+            9,
+            0.9116878645845906
+        ],
+        [
+            2,
+            10,
+            0.9311689294030658
+        ],
+        [
+            2,
+            11,
+            0.9261963141933096
+        ],
+        [
+            2,
+            12,
+            0.9189966644743431
+        ],
+        [
+            3,
+            0,
+            0.9336192693393592
+        ],
+        [
+            3,
+            1,
+            0.9376653593063442
+        ],
+        [
+            3,
+            2,
+            0.926650975583169
+        ],
+        [
+            3,
+            3,
+            1.0
+        ],
+        [
+            3,
+            4,
+            0.9180096356402908
+        ],
+        [
+            3,
+            5,
+            0.9201345707740526
+        ],
+        [
+            3,
+            6,
+            0.9245690143598226
+        ],
+        [
+            3,
+            7,
+            0.9381207503273842
+        ],
+        [
+            3,
+            8,
+            0.9402394945192141
+        ],
+        [
+            3,
+            9,
+            0.9304588063762914
+        ],
+        [
+            3,
+            10,
+            0.9242254328146204
+        ],
+        [
+            3,
+            11,
+            0.921396109450904
+        ],
+        [
+            3,
+            12,
+            0.9123421639425883
+        ],
+        [
+            4,
+            0,
+            0.9071194904424487
+        ],
+        [
+            4,
+            1,
+            0.9214759968735834
+        ],
+        [
+            4,
+            2,
+            0.9053627525147026
+        ],
+        [
+            4,
+            3,
+            0.9180096356402908
+        ],
+        [
+            4,
+            4,
+            1.0
+        ],
+        [
+            4,
+            5,
+            0.9156091024100199
+        ],
+        [
+            4,
+            6,
+            0.9337992229805399
+        ],
+        [
+            4,
+            7,
+            0.9238861122258323
+        ],
+        [
+            4,
+            8,
+            0.9314059954826219
+        ],
+        [
+            4,
+            9,
+            0.940432496547708
+        ],
+        [
+            4,
+            10,
+            0.9205307097981196
+        ],
+        [
+            4,
+            11,
+            0.9133568483936072
+        ],
+        [
+            4,
+            12,
+            0.9208682112099744
+        ],
+        [
+            5,
+            0,
+            0.9206390231258421
+        ],
+        [
+            5,
+            1,
+            0.9
+        ],
+        [
+            5,
+            2,
+            0.9289049872193372
+        ],
+        [
+            5,
+            3,
+            0.9201345707740526
+        ],
+        [
+            5,
+            4,
+            0.9156091024100199
+        ],
+        [
+            5,
+            5,
+            1.0
+        ],
+        [
+            5,
+            6,
+            0.9330697096634809
+        ],
+        [
+            5,
+            7,
+            0.9163558866074581
+        ],
+        [
+            5,
+            8,
+            0.9259395635554408
+        ],
+        [
+            5,
+            9,
+            0.9135715243766422
+        ],
+        [
+            5,
+            10,
+            0.9183405686728188
+        ],
+        [
+            5,
+            11,
+            0.9192746249814219
+        ],
+        [
+            5,
+            12,
+            0.9148093972602156
+        ],
+        [
+            6,
+            0,
+            0.9148907821000845
+        ],
+        [
+            6,
+            1,
+            0.9283769288578038
+        ],
+        [
+            6,
+            2,
+            0.9214645264589845
+        ],
+        [
+            6,
+            3,
+            0.9245690143598226
+        ],
+        [
+            6,
+            4,
+            0.9337992229805399
+        ],
+        [
+            6,
+            5,
+            0.9330697096634809
+        ],
+        [
+            6,
+            6,
+            1.0
+        ],
+        [
+            6,
+            7,
+            0.9289898885925295
+        ],
+        [
+            6,
+            8,
+            0.93414302178848
+        ],
+        [
+            6,
+            9,
+            0.9119341939627507
+        ],
+        [
+            6,
+            10,
+            0.9127969835101183
+        ],
+        [
+            6,
+            11,
+            0.9067468911167201
+        ],
+        [
+            6,
+            12,
+            0.9084152140986788
+        ],
+        [
+            7,
+            0,
+            0.9336206404666278
+        ],
+        [
+            7,
+            1,
+            0.9121935089026142
+        ],
+        [
+            7,
+            2,
+            0.9281223857262815
+        ],
+        [
+            7,
+            3,
+            0.9381207503273842
+        ],
+        [
+            7,
+            4,
+            0.9238861122258323
+        ],
+        [
+            7,
+            5,
+            0.9163558866074581
+        ],
+        [
+            7,
+            6,
+            0.9289898885925295
+        ],
+        [
+            7,
+            7,
+            1.0
+        ],
+        [
+            7,
+            8,
+            0.9371925363744643
+        ],
+        [
+            7,
+            9,
+            0.9230670688232575
+        ],
+        [
+            7,
+            10,
+            0.9218701652478908
+        ],
+        [
+            7,
+            11,
+            0.9175234255430937
+        ],
+        [
+            7,
+            12,
+            0.9130756206778141
+        ],
+        [
+            8,
+            0,
+            0.9304710088631951
+        ],
+        [
+            8,
+            1,
+            0.9161683821839524
+        ],
+        [
+            8,
+            2,
+            0.9169010857650389
+        ],
+        [
+            8,
+            3,
+            0.9402394945192141
+        ],
+        [
+            8,
+            4,
+            0.9314059954826219
+        ],
+        [
+            8,
+            5,
+            0.9259395635554408
+        ],
+        [
+            8,
+            6,
+            0.93414302178848
+        ],
+        [
+            8,
+            7,
+            0.9371925363744643
+        ],
+        [
+            8,
+            8,
+            1.0
+        ],
+        [
+            8,
+            9,
+            0.9265835089447653
+        ],
+        [
+            8,
+            10,
+            0.9259179666816422
+        ],
+        [
+            8,
+            11,
+            0.926112779290673
+        ],
+        [
+            8,
+            12,
+            0.9139341083697997
+        ],
+        [
+            9,
+            0,
+            0.9202018976183073
+        ],
+        [
+            9,
+            1,
+            0.9297910152236991
+        ],
+        [
+            9,
+            2,
+            0.9116878645845906
+        ],
+        [
+            9,
+            3,
+            0.9304588063762914
+        ],
+        [
+            9,
+            4,
+            0.940432496547708
+        ],
+        [
+            9,
+            5,
+            0.9135715243766422
+        ],
+        [
+            9,
+            6,
+            0.9119341939627507
+        ],
+        [
+            9,
+            7,
+            0.9230670688232575
+        ],
+        [
+            9,
+            8,
+            0.9265835089447653
+        ],
+        [
+            9,
+            9,
+            1.0
+        ],
+        [
+            9,
+            10,
+            0.9167971423950435
+        ],
+        [
+            9,
+            11,
+            0.9229601846626081
+        ],
+        [
+            9,
+            12,
+            0.9330704457191769
+        ],
+        [
+            10,
+            0,
+            0.9463453030884814
+        ],
+        [
+            10,
+            1,
+            0.9207436496436128
+        ],
+        [
+            10,
+            2,
+            0.9311689294030658
+        ],
+        [
+            10,
+            3,
+            0.9242254328146204
+        ],
+        [
+            10,
+            4,
+            0.9205307097981196
+        ],
+        [
+            10,
+            5,
+            0.9183405686728188
+        ],
+        [
+            10,
+            6,
+            0.9127969835101183
+        ],
+        [
+            10,
+            7,
+            0.9218701652478908
+        ],
+        [
+            10,
+            8,
+            0.9259179666816422
+        ],
+        [
+            10,
+            9,
+            0.9167971423950435
+        ],
+        [
+            10,
+            10,
+            1.0
+        ],
+        [
+            10,
+            11,
+            0.9259830350537249
+        ],
+        [
+            10,
+            12,
+            0.9368093966584695
+        ],
+        [
+            11,
+            0,
+            0.9272265263081616
+        ],
+        [
+            11,
+            1,
+            0.9333033117976303
+        ],
+        [
+            11,
+            2,
+            0.9261963141933096
+        ],
+        [
+            11,
+            3,
+            0.921396109450904
+        ],
+        [
+            11,
+            4,
+            0.9133568483936072
+        ],
+        [
+            11,
+            5,
+            0.9192746249814219
+        ],
+        [
+            11,
+            6,
+            0.9067468911167201
+        ],
+        [
+            11,
+            7,
+            0.9175234255430937
+        ],
+        [
+            11,
+            8,
+            0.926112779290673
+        ],
+        [
+            11,
+            9,
+            0.9229601846626081
+        ],
+        [
+            11,
+            10,
+            0.9259830350537249
+        ],
+        [
+            11,
+            11,
+            1.0
+        ],
+        [
+            11,
+            12,
+            0.9315969058655218
+        ],
+        [
+            12,
+            0,
+            0.9313202593097583
+        ],
+        [
+            12,
+            1,
+            0.9285980634399046
+        ],
+        [
+            12,
+            2,
+            0.9189966644743431
+        ],
+        [
+            12,
+            3,
+            0.9123421639425883
+        ],
+        [
+            12,
+            4,
+            0.9208682112099744
+        ],
+        [
+            12,
+            5,
+            0.9148093972602156
+        ],
+        [
+            12,
+            6,
+            0.9084152140986788
+        ],
+        [
+            12,
+            7,
+            0.9130756206778141
+        ],
+        [
+            12,
+            8,
+            0.9139341083697997
+        ],
+        [
+            12,
+            9,
+            0.9330704457191769
+        ],
+        [
+            12,
+            10,
+            0.9368093966584695
+        ],
+        [
+            12,
+            11,
+            0.9315969058655218
+        ],
+        [
+            12,
+            12,
+            1.0
+        ]
+    ]
+}

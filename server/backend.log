@@ -1,0 +1,87 @@
+> Task :openApiGenerate UP-TO-DATE
+> Task :compileJava UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+> Task :resolveMainClassName UP-TO-DATE
+
+> Task :bootRun
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.5)
+
+2025-05-16 15:08:42 INFO  [main] com.xdra.hub.HubApplication - Starting HubApplication using Java 17.0.15 with PID 135543 (/home/l2/EIS_WEB-dev_v2/server/build/classes/java/main started by l2 in /home/l2/EIS_WEB-dev_v2/server)
+2025-05-16 15:08:42 INFO  [main] com.xdra.hub.HubApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.xdra.hub.repository.CellStatisticsRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.xdra.hub.repository.ClusterRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.xdra.hub.repository.ContainerRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.xdra.hub.repository.EisMeasurementRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.xdra.hub.repository.MonthlyStatsRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.xdra.hub.repository.PackStatisticsRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 31 ms. Found 0 JDBC repository interfaces.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-16 15:08:42 INFO  [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 6 JPA repository interfaces.
+2025-05-16 15:08:43 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-05-16 15:08:43 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-16 15:08:43 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-16 15:08:43 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-05-16 15:08:43 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-16 15:08:43 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 880 ms
+2025-05-16 15:08:43 INFO  [main] com.zaxxer.hikari.HikariDataSource - HikariCP - Starting...
+2025-05-16 15:08:43 INFO  [main] com.zaxxer.hikari.pool.HikariPool - HikariCP - Added connection org.postgresql.jdbc.PgConnection@5111de7c
+2025-05-16 15:08:43 INFO  [main] com.zaxxer.hikari.HikariDataSource - HikariCP - Start completed.
+2025-05-16 15:08:43 INFO  [main] liquibase.database - Set default schema name to public
+2025-05-16 15:08:43 INFO  [main] liquibase.changelog - Reading from public.databasechangelog
+2025-05-16 15:08:43 INFO  [main] liquibase.ui - Database is up to date, no changesets to execute
+2025-05-16 15:08:43 INFO  [main] liquibase.changelog - Reading from public.databasechangelog
+2025-05-16 15:08:43 INFO  [main] liquibase.util - UPDATE SUMMARY
+2025-05-16 15:08:43 INFO  [main] liquibase.util - Run:                          0
+2025-05-16 15:08:43 INFO  [main] liquibase.util - Previously run:               1
+2025-05-16 15:08:43 INFO  [main] liquibase.util - Filtered out:                 0
+2025-05-16 15:08:43 INFO  [main] liquibase.util - -------------------------------
+2025-05-16 15:08:43 INFO  [main] liquibase.util - Total change sets:            1
+2025-05-16 15:08:43 INFO  [main] liquibase.util - Update summary generated
+2025-05-16 15:08:43 INFO  [main] liquibase.lockservice - Successfully released change log lock
+2025-05-16 15:08:43 INFO  [main] liquibase.command - Command execution complete
+2025-05-16 15:08:43 INFO  [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-16 15:08:43 INFO  [main] org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2025-05-16 15:08:43 INFO  [main] o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-05-16 15:08:44 INFO  [main] o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-16 15:08:44 INFO  [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-16 15:08:44 INFO  [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-16 15:08:45 INFO  [main] o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-05-16 15:08:45 INFO  [main] c.x.h.r.DataRetentionManager - preparing table partitions
+2025-05-16 15:08:45 INFO  [main] c.x.h.r.DataRetentionManager - table partitions created
+2025-05-16 15:08:45 INFO  [main] c.g.k.s.j.AutodetectJdbcCustomization - Detected database PostgreSQL.
+2025-05-16 15:08:45 INFO  [main] c.g.k.s.j.AutodetectJdbcCustomization - Using PostgreSQL jdbc-overrides.
+2025-05-16 15:08:45 INFO  [main] c.g.k.scheduler.SchedulerBuilder - Creating scheduler with configuration: threads=5, pollInterval=10s, heartbeat=300s, enable-immediate-execution=false, enable-priority=false, table-name=scheduled_tasks, name=l2-HP-ENVY-x360-Convertible-15m-ed0xxx
+2025-05-16 15:08:45 INFO  [main] c.g.kagkarlsson.scheduler.Scheduler - Using polling-strategy: type=FETCH, lowerLimit=0.5, upperLimit=3.0
+2025-05-16 15:08:45 INFO  [main] c.g.kagkarlsson.scheduler.Scheduler - Starting scheduler.
+2025-05-16 15:08:45 WARN  [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-16 15:08:45 INFO  [pool-2-thread-1] c.x.h.c.ConfigurationService - system configuration loaded class SystemConfiguration {
+    containers: []
+    packType: pack104
+}
+2025-05-16 15:08:45 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-16 15:08:45 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-05-16 15:08:45 INFO  [main] com.xdra.hub.HubApplication - Started HubApplication in 3.877 seconds (process running for 4.203)
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Gradle build daemon has been stopped: stop command received
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.

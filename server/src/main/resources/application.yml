@@ -1,0 +1,43 @@
+server:
+  port: 8080
+  tomcat:
+    max-http-post-size: 150MB
+config:
+  cors:
+    allowed-origins: ${FRONTEND_ORIGIN:http://localhost,http://localhost:3000,http://localhost:8080}
+  pack:
+    type: ${PACK_TYPE:pack104}
+spring:
+  application:
+    name: hub
+  datasource:
+    url: jdbc:postgresql://${DATABASE_URL:localhost:5432}/xdra?reWriteBatchedInserts=true
+    username: xdra
+    password: ${DATABASE_PASSWORD:Test!123}
+  # datasource:
+  #   url: jdbc:postgresql://${DATABASE_URL:localhost:5432}/eis_web?reWriteBatchedInserts=true
+  #   username: eis_web_user
+  #   password: ${EIS_WEB_PASSWORD} 
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      maximum-pool-size: 100
+      minimum-idle: 5
+      idle-timeout: 10000
+      pool-name: HikariCP
+  jpa:
+    properties:
+      hibernate:
+        jdbc:
+          batch_size: 200
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.xml
+    enabled: true
+
+app:
+  python:
+    executable: /home/l2/anaconda3/envs/eis_algovenv/bin/python
+    scripts-dir: /home/l2/EIS_WEB-dev_v2/data_generate_0507
+
+
+
+  

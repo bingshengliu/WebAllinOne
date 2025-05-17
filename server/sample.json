@@ -1,0 +1,125 @@
+{
+  "eisMeasurements": [
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "1",
+      "realImpedance": 150.5,
+      "imaginaryImpedance": 20.3,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "2",
+      "realImpedance": 148.9,
+      "imaginaryImpedance": 19.8,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.1,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "3",
+      "realImpedance": 152.2,
+      "imaginaryImpedance": 21.0,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.3,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "4",
+      "realImpedance": 149.7,
+      "imaginaryImpedance": 20.1,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "5",
+      "realImpedance": 151.0,
+      "imaginaryImpedance": 20.5,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "6",
+      "realImpedance": 150.1,
+      "imaginaryImpedance": 20.0,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "7",
+      "realImpedance": 149.9,
+      "imaginaryImpedance": 19.9,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "8",
+      "realImpedance": 150.8,
+      "imaginaryImpedance": 20.2,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "9",
+      "realImpedance": 151.3,
+      "imaginaryImpedance": 20.6,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    },
+    {
+      "containerId": "1",
+      "clusterId": "1",
+      "packId": "1",
+      "cellId": "10",
+      "realImpedance": 150.0,
+      "imaginaryImpedance": 20.0,
+      "frequency": 1000.0,
+      "voltage": 3.7,
+      "temperature": 25.2,
+      "creationTime": "2025-05-14T14:23:00Z"
+    }
+  ]
+}
+
