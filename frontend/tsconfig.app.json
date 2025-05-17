@@ -1,14 +1,3 @@
-{
-  "extends": "@vue/tsconfig/tsconfig.dom.json",
-  "compilerOptions": {
-    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
-
-    /* Linting */
-    "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
-  },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", "src/store/index.js"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4736c1bc98c9445dde12a163cf622a2b4cccd8851bbe8271e74a39fe74c77cfe
+size 414

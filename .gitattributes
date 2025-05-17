@@ -1,3 +1,6 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.sql filter=lfs diff=lfs merge=lfs -text
 data_generate_0507/final_payload.json filter=lfs diff=lfs merge=lfs -text
 data_generate_0507/mydb_backup.sql filter=lfs diff=lfs merge=lfs -text
 data_generate_0507/nyquist_results.json filter=lfs diff=lfs merge=lfs -text
