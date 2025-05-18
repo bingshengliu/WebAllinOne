@@ -519,7 +519,7 @@ const OverViewData = ref({});
 const Bodedata = ref({});
 const Nyquistdata = ref({});
 const HistoryData = ref({});
-const PackMetricsData = ref(null);
+const PackMetricsData = ref({});
 //单体电池数据看板
 const singleData = reactive({});
 const EqData = ref({});
@@ -652,13 +652,39 @@ watch(
 );
 
 
+
+
+// 3) NEW Helper #2: init container from system-configuration
+const GetPackMetricsData = async () => {
+  // Add a log to check if the container ID is set correctly in the store
+  console.log('Container ID:', store.state.CurrentContainer.id);
+
+  // Check if CurrentContainer.id is not undefined or null before making the API request
+  if (!store.state.CurrentContainer.id) {
+    console.warn('Container ID is undefined or null');
+    return; // Prevent making the request if the container ID is not available
+  }
+
+  // Now make the API request for pack metrics using the current container ID
+  let res = await GetPackMetrics(
+    store.state.CurrentContainer.id,
+    store.state.CurrentModelName
+  );
+  
+  // Log the response to verify that the data is being returned correctly
+  console.log('Pack Metrics Response:', res);
+
+  // Set the pack metrics data in the store
+  PackMetricsData.value = res;
+};
+
 // pack级总览数据
 const GetOverViewDataFun = async () => {
   let res = await GetOverViewData();
   OverViewData.value = res.data;
 };
 
-// 3) NEW Helper #2: init container from system-configuration
+// Initialize container from system config
 const InitContainerFromSysConfig = async () => {
   const res = await GetSystemConfiguration();
   const ctrs = res.containers;
@@ -669,26 +695,21 @@ const InitContainerFromSysConfig = async () => {
   }
 };
 
-//获取pack级数据
-const GetPackMetricsData = async () => {
-  let res = await GetPackMetrics(
-    store.state.CurrentContainer.id,
-    store.state.CurrentModelName
-  );
-  PackMetricsData.value = res;
-};
 
-// 6) Single async onMounted that runs in sequence
 onMounted(async () => {
-  // 6a) overview
+  console.log("Fetching Overview Data...");
   await GetOverViewDataFun();
-
-  // 6b) init container from system-config
+  console.log("Overview Data fetched.");
+  
+  console.log("Initializing container...");
   await InitContainerFromSysConfig();
+  console.log("Container initialized.");
 
-  // 6c) now fetch pack-metrics with a real container.id
+  console.log("Fetching Pack Metrics...");
   await GetPackMetricsData();
+  console.log("Pack Metrics fetched.");
 });
+
 </script>
 
 
