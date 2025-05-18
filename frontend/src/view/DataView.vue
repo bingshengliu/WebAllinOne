@@ -506,7 +506,11 @@ import heatmapRect from '../components/heatmapRect.vue';
 import singlePackThree from '../components/singlePackThree/index.vue';
 import singlePackThreeByColor from '../components/singlePackThreeByColor/index.vue';
 
-import { GetOverViewData, GetPackMetrics } from '../api/packApi.ts';
+import {
+  GetOverViewData,
+  GetPackMetrics,
+  GetSystemConfiguration
+} from '../api/packApi.ts';
 import store from '../store/index';
 
 // pack级总览数据
@@ -647,10 +651,24 @@ watch(
   { immediate: true }
 );
 
+
+// pack级总览数据
 const GetOverViewDataFun = async () => {
   let res = await GetOverViewData();
   OverViewData.value = res.data;
 };
+
+// 3) NEW Helper #2: init container from system-configuration
+const InitContainerFromSysConfig = async () => {
+  const res = await GetSystemConfiguration();
+  const ctrs = res.containers;
+  if (Array.isArray(ctrs) && ctrs.length > 0) {
+    store.commit('setCurrentContainer', ctrs[0]);
+  } else {
+    console.warn('No containers in system-configuration');
+  }
+};
+
 //获取pack级数据
 const GetPackMetricsData = async () => {
   let res = await GetPackMetrics(
@@ -660,11 +678,19 @@ const GetPackMetricsData = async () => {
   PackMetricsData.value = res;
 };
 
-onMounted(() => {
-  GetOverViewDataFun();
-  GetPackMetricsData();
+// 6) Single async onMounted that runs in sequence
+onMounted(async () => {
+  // 6a) overview
+  await GetOverViewDataFun();
+
+  // 6b) init container from system-config
+  await InitContainerFromSysConfig();
+
+  // 6c) now fetch pack-metrics with a real container.id
+  await GetPackMetricsData();
 });
 </script>
+
 
 <style scoped lang="scss">
 .dashboard {

@@ -561,18 +561,40 @@ watch(
   { immediate: true }
 );
 //获取系统配置信息
-
 const GetSystemConfigurationData = async () => {
-  let res = await GetSystemConfiguration();
-  console.log(res, '配置信息');
+  try {
+    let res = await GetSystemConfiguration(); // Call the API to fetch data
+    console.log(res, '配置信息');  // Debugging response in console
 
-  containerData.value = res.containers;
-  store.commit('setCurrentModelName', res.packType.substring(4));
-  const modelUrl = res.packType.substring(4) == 52 ? 'single52' : 'single104';
-  loadGLTF(modelUrl);
-
-  store.commit('setCurrentContainer', res.containers[0]);
+    // Handle case when no containers are found
+    if (res.containers && res.containers.length > 0) {
+      containerData.value = res.containers;  // Set containers
+      store.commit('setCurrentModelName', res.packType.substring(4)); // Set model name
+      const modelUrl = res.packType.substring(4) == 52 ? 'single52' : 'single104';
+      loadGLTF(modelUrl);  // Load 3D model
+      store.commit('setCurrentContainer', res.containers[0]); // Set the first container
+    } else {
+      this.errorMessage = "No containers available in the configuration.";
+      console.error("Error: No containers found.");
+    }
+  } catch (error) {
+    this.errorMessage = "Error fetching system configuration.";
+    console.error("Error fetching data:", error);
+  }
 };
+
+
+// const GetSystemConfigurationData = async () => {
+//   let res = await GetSystemConfiguration();
+//   console.log(res, '配置信息');
+
+//   containerData.value = res.containers;
+//   store.commit('setCurrentModelName', res.packType.substring(4));
+//   const modelUrl = res.packType.substring(4) == 104 ? 'single52' : 'single104';
+//   loadGLTF(modelUrl);
+
+//   store.commit('setCurrentContainer', res.containers[0]);
+// };
 //底部左侧总览数据
 const GetOverViewDataFun = async () => {
   let res = await GetOverViewData();

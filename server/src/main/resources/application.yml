@@ -33,10 +33,18 @@ spring:
     change-log: classpath:db/changelog/db.changelog-master.xml
     enabled: true
 
+logging:
+  level:
+    org.springframework.web: DEBUG
+    org.springframework.boot.web.servlet.error: DEBUG
+
 app:
   python:
     executable: /home/l2/anaconda3/envs/eis_algovenv/bin/python
     scripts-dir: /home/l2/EIS_WEB-dev_v2/data_generate_0507
+
+
+
 
 
 
