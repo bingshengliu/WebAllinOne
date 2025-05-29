@@ -1,3 +1,4 @@
 .env
 .DS_Store
 **/*.tar
+data_generate_0507/testdata/
