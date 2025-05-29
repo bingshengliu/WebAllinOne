@@ -101,7 +101,7 @@ if __name__ == "__main__":
     container_id = 1
     cluster_id = 1
     group_id = 1
-    pack_id = 4
+    pack_id = 1
     real_time_id = datetime.now()
 
     bode_data = compute_bode_phase(container_id,cluster_id,pack_id)

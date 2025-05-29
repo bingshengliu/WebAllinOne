@@ -34,7 +34,7 @@ create table if not exists eis_measurement (
 ) PARTITION BY RANGE (creation_time);
 
 --changeset bruce.jeaung:create-eis-measurement-partitions
-<sql>
+-- <sql>
 DO $$
 DECLARE
   dt_start  DATE := '2024-05-01';
@@ -58,7 +58,7 @@ BEGIN
   END LOOP;
 END
 $$;
-</sql>
+-- </sql>
 
 create table if not exists generated_record (
     id bigserial,

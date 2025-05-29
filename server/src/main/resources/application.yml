@@ -40,8 +40,8 @@ logging:
 
 app:
   python:
-    executable: /home/l2/anaconda3/envs/eis_algovenv/bin/python
-    scripts-dir: /home/l2/EIS_WEB-dev_v2/data_generate_0507
+    executable: /home/ljy/anaconda3/envs/python310/bin/python
+    scripts-dir: /home/ljy/Desktop/workstation/WebAllinOne/data_generate_0507
 
 
 
