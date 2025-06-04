@@ -12,6 +12,11 @@ import java.time.Instant;
 import java.time.OffsetDateTime;
 import java.time.ZoneId;
 
+import java.util.List;
+
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 @Service
 @RequiredArgsConstructor
 @Slf4j
@@ -60,10 +65,14 @@ public class CellStatsService {
                     response.setDrtPlot(objectMapper.readerForListOf(DrtPlotPoint.class).readValue(e.getDrtPlot()));
                 }
                 if (e.getRealPartCorrelation() != null) {
-                    response.setRealPartCorrelation(objectMapper.readerForListOf(Double.class).readValue(e.getRealPartCorrelation()));
+                    response.setRealPartCorrelation(
+                        objectMapper.readerFor(new TypeReference<List<List<Double>>>() {}).readValue(e.getRealPartCorrelation())
+                    );
                 }
                 if (e.getImagPartCorrelation() != null) {
-                    response.setImagPartCorrelation(objectMapper.readerForListOf(Double.class).readValue(e.getImagPartCorrelation()));
+                    response.setImagPartCorrelation(
+                        objectMapper.readerFor(new TypeReference<List<List<Double>>>() {}).readValue(e.getImagPartCorrelation())
+                    );
                 }
                 if (e.getEquivalentCircuitData() != null) {
                     response.setEquivalentCircuitDiagram(objectMapper.treeToValue(e.getEquivalentCircuitData(), EquivalentCircuitDiagram.class));

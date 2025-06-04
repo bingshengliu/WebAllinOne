@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/api/v1")
+@CrossOrigin(origins = "http://localhost:5173")
 public class TransmissionController implements TransmissionApi {
 
     private final TransmissionService transmissionService;

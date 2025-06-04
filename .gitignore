@@ -4,3 +4,5 @@
 data_generate_0507/testdata/
 *.pyc
 __pycache__/
+*.json
+**/*.pyc

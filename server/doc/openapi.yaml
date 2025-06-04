@@ -333,6 +333,9 @@ components:
         impedanceStdDev:
           type: number
           format: double
+        timestamp:
+          type: string
+          format: date-time
     ClusterPackHistogram:
       type: object
       properties:
@@ -516,7 +519,7 @@ components:
         nyquistPlot:
           $ref: "#/components/schemas/NyquistPlot"
         drtPlot:
-          $ref: "#/components/schemas/DrtPlotPoint"
+          $ref: "#/components/schemas/DrtPlot"
         realPartCorrelation:
           $ref: "#/components/schemas/Matrix"
         imagPartCorrelation:

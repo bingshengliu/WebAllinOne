@@ -17,5 +17,5 @@ public interface PackStatisticsRepository extends JpaRepository<PackStatisticsEn
     @Query(value = "SELECT * FROM (SELECT ps.*, ROW_NUMBER() OVER (PARTITION BY ps.pack_id ORDER BY ps.creation_time DESC) as rn FROM pack_statistics ps WHERE ps.container_id = ?1) ranked WHERE ranked.rn <= 10", nativeQuery = true)
     List<PackStatisticsEntity> get10LatestPackStatisticsGroupByPackIdByContainerId(Long containerId);
 
-    List<PackStatisticsEntity> findTopNByPackIdOrderByCreationTimeDesc(Long packId, Limit limit);
+    List<PackStatisticsEntity> findTop10ByPackIdOrderByCreationTimeDesc(Long packId, Limit limit);
 }

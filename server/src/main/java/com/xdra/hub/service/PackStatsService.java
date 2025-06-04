@@ -9,6 +9,9 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Limit;
 import org.springframework.stereotype.Service;
 
+import java.time.Instant;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -22,7 +25,7 @@ public class PackStatsService {
     private final ObjectMapper objectMapper;
 
     public PackMetricsResponse getPackMetrics(String packId) {
-        List<PackStatisticsEntity> packStatistics = packStatisticsRepository.findTopNByPackIdOrderByCreationTimeDesc(Long.parseLong(packId), Limit.of(10));
+        List<PackStatisticsEntity> packStatistics = packStatisticsRepository.findTop10ByPackIdOrderByCreationTimeDesc(Long.parseLong(packId), Limit.of(10));
         PackMetricsResponse response = new PackMetricsResponse();
 
         if (packStatistics == null || packStatistics.isEmpty()) {
@@ -36,6 +39,11 @@ public class PackStatsService {
             point.setMaxAbsImpedance(entity.getMaxAbsImpedance());
             point.setMinAbsImpedance(entity.getMinAbsImpedance());
             point.setImpedanceStdDev(entity.getImpedanceStdDev());
+            Instant creationTimeInstant = entity.getCreationTime();
+            if (creationTimeInstant != null) {
+                OffsetDateTime creationTimeOffset = creationTimeInstant.atOffset(ZoneOffset.ofHours(8));
+                point.setTimestamp(creationTimeOffset);
+            }
             return point;
         }).toList());
 
@@ -90,7 +98,10 @@ public class PackStatsService {
                                                 .absImpedanceMean(entity.getAbsImpedanceMean())
                                                 .maxAbsImpedance(entity.getMaxAbsImpedance())
                                                 .minAbsImpedance(entity.getMinAbsImpedance())
-                                                .impedanceStdDev(entity.getImpedanceStdDev()))
+                                                .impedanceStdDev(entity.getImpedanceStdDev())
+                                                .timestamp(entity.getCreationTime() == null ? null : 
+                                                entity.getCreationTime().atOffset(ZoneOffset.ofHours(8)))
+                                                )
                                         .toList()
                         )).toList();
 

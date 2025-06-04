@@ -43,7 +43,7 @@ def generate_transmit_payload(
         "impedanceStdDevToAvgRatio": cell_stat["cross_cell"]["impedanceStdDevToAvgRatio"],
         "bodePlot": bode_data[cell_id_str]["bodePlot"],
         "nyquistPlot": nyquist_data[cell_id_str]["nyquistPlot"],
-        "DrtPlot": drt_data[cell_id_str]["drtPlot"],
+        "drtPlot": drt_data[cell_id_str]["drtPlot"],
         "realPartCorrelation": corr_data["modules"][module_index]["realPartCorrelation"],
         "imagPartCorrelation": corr_data["modules"][module_index]["imagPartCorrelation"],
         "equivalentCircuitDiagram": drt_data[cell_id_str]["equivalentCircuitDiagram"],
