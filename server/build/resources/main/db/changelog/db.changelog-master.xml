@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog 
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="
+      http://www.liquibase.org/xml/ns/dbchangelog
+      https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+
+    <!-- 用来执行 init.sql 中的建表和建索引逻辑 -->
+    <changeSet id="db-scheduler" author="bruce.jeaung" runOnChange="true">
+        <!-- 如果表已存在，则标记为已执行并跳过 -->
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="scheduled_tasks"/>
+            </not>
+        </preConditions>
+        <!-- 相对路径引用 init.sql（与本文件同目录） -->
+        <sqlFile
+            path="init.sql"
+            relativeToChangelogFile="true"
+            splitStatements="false"
+            stripComments="true"/>
+    </changeSet>
+
+</databaseChangeLog>

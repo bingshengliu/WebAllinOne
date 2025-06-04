@@ -1,0 +1,4 @@
+*.json
+testdata
+data_generate
+__pycache__
